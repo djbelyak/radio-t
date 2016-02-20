@@ -1,0 +1,29 @@
+<article>
+  		<header>
+      		<h1 class="entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+      		<p class="meta">
+      				<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}" pubdate data-updated="true">
+          				{{ .Date.Format "Jan 2, 2006 " }} - TODO
+      				</time>
+        		|
+          			<a href="#disqus_thread">Comments</a>
+        
+      		</p>
+      	</header>
+      	<div class="entry-content">
+      		{{ with .Params.image }}
+  					<p><img src="{{ . }}" alt="" /></p>
+  				{{ end }}
+  				{{ .Content }}
+
+  				{{ with .Params.audio }}
+				<p><a href="{{ . }}">аудио</a> 
+				{{ end }}
+				{{ with .Params.logs}}
+				● <a href="{{ . }}">лог чата</a>
+				{{ end }}
+				{{ with .Params.audio }}
+				<audio src="{{ . }}" preload="none"></audio></p>
+				{{ end }}
+      	</div>
+</article>
