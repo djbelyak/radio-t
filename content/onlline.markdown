@@ -1,20 +1,20 @@
-+++
-date = "2000-02-19T23:49:17+03:00"
-draft = false
-title = "Слушать Online вещание"
-
-categories = ["info"]
-
-+++
-
-<img src="/images/listen.jpg" alt="" />
-Запись подкаста производится по субботам, в 23:00мск. В это время, вы можете слушать нас в прямом эфире по ссылке: http://stream.radio-t.com
+---
+layout: page
+title: "Слушать Online вещание"
+date: 2012-06-13T22:53:00
+comments: false
+sharing: true
+footer: false
+---
+![](/images/listen.jpg)
+Запись подкаста производится по субботам, в 23:00мск. В это время, вы можете слушать нас в прямом эфире по ссылке: [http://stream.radio-t.com](http://stream.radio-t.com)
 
 Для обратной связи: jabber чат conference.radio-t.com room: online
 
-Так–же можно воспользоваться специальной программой http://apps.radio-t.com позволяющей одновременно слушать эфир, читать/писать в чат, голосовать и прочее приятное.
+Так–же можно воспользоваться специальной программой [http://apps.radio-t.com](http://apps.radio-t.com) позволяющей одновременно слушать эфир, читать/писать в чат, голосовать и прочее приятное.
 
-<p>Обратный отсчет: <span id="timer">23 часа 04 минуты 12 секунд</span></p>
+
+Обратный отсчет: <span id="timer"></span>
 
 <script>
 function setShowTimer() {

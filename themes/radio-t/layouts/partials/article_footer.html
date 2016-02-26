@@ -1,28 +1,4 @@
-{{ partial "head.html" . }}
-  <body>
-    <header role="banner">{{ partial "header.html" . }}</header>
-    <nav role="navigation">{{ partial "navigation.html" . }}</nav>
-
-    <div id="main">
-      <div id="content">
-        <div>
-          
-          <article class="hentry" role="article">
-          <header>
-            <h1 class="entry-title">{{ .Title }}</h1>
-            
-            <p class="meta">
-            <time datetime="{{dateFormat "2006-01-02T15:04:05Z07:00"  .Date }}" pubdate data-updated="true">{{ dateFormat "Jan 2, 2006"  .Date }} </time>
-        
-            | <a href="https://radio-t.com{{.RelPermalink}}#disqus_thread">Comments</a>
-            </p>
-          </header>
-
-          <div class="entry-content">
-            {{ .Content  }}
-          </div>
-
-           <footer>
+<footer>
     <p class="meta">
       <span class="byline author vcard"> <span class="fn">{{ .Site.Params.author }}</span></span>
       <time datetime="{{dateFormat "2006-01-02T15:04:05Z07:00"  .Date }}" pubdate data-updated="true">{{ dateFormat "Jan 2, 2006"  .Date }} </time>
@@ -50,22 +26,3 @@
       {{ end }}
     </p>
   </footer>
-</article>
-
-{{ if .Params.comments }}
-  <section>
-    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></div>
-  </section>
-{{ end }}
-
-        </div>
-        {{ partial "aside.html" . }}
-      </div>
-    </div>
-
-    <footer role="contentinfo">{{ partial "footer.html" . }}</footer>
-  
-    {{ partial "after_footer.html" . }}
-
-  </body>
-</html>

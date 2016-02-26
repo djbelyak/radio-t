@@ -4,10 +4,10 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  {{ if eq .Title .Site.Title}}
-  <title>{{ .Site.Title }}</title>
-  {{ else }}
+  {{ if .IsPage }}
   <title>{{ .Title }} - {{ .Site.Title }}</title>
+  {{ else }}
+  <title>{{ .Site.Title }}</title>
   {{ end }}
   <meta name="author" content="{{ .Site.Params.author }}">
   {{$desc := .Site.Params.description | markdownify |}}

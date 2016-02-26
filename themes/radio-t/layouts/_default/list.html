@@ -6,9 +6,20 @@
     <div id="main">
       <div id="content">
         <div class="blog-index">
-          {{ range first 10 .Data.Pages }}
-              {{ .Render "li"}}
+          {{ range .Paginator.Pages }}
+            {{ .Render "li"}}
           {{ end }}
+
+          <div class="pagination">
+            {{ if .Paginator.HasNext }}
+            <a class="prev" href="{{ .Paginator.Next.URL }}">&larr; Раньше</a>
+            {{ end}}
+            <a href="/archives">Архивы подкаста</a>
+            {{ if .Paginator.HasPrev }}
+            <a class="next" href="{{ .Paginator.Prev.URL }}">Позже &rarr;</a>
+            {{ end}}
+          </div>
+
         </div>
         {{ partial "aside.html" . }}
       </div>

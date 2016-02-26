@@ -1,5 +1,5 @@
 
-{{ if and (.Site.DisqusShortname) (.Params.comments) }}
+
 <script type="text/javascript">
       var disqus_shortname = '{{ .Site.DisqusShortname }}';
       {{ if .Params.comments }}
@@ -19,4 +19,4 @@
     }());
 </script>
 
-{{ end }}
+
