@@ -1,0 +1,22 @@
+{{ partial "head.html" . }}
+  <body>
+    <header role="banner">{{ partial "header.html" . }}</header>
+    <nav role="navigation">{{ partial "navigation.html" . }}</nav>
+
+    <div id="main">
+      <div id="content">
+        <div class="blog-index">
+          {{ range first 10 .Data.Pages }}
+              {{ .Render "li"}}
+          {{ end }}
+        </div>
+        {{ partial "aside.html" . }}
+      </div>
+    </div>
+
+    <footer role="contentinfo">{{ partial "footer.html" . }}</footer>
+  
+    {{ partial "after_footer.html" . }}
+
+  </body>
+</html>
