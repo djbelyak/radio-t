@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2012-04-29T02:12:00
+filename: rt_podcast286
 layout: post
 title: Радио-Т 286
-date: 2012-04-29T02:12:00
-comments: true
-categories: podcast
-filename: rt_podcast286
 ---
+
 ![](https://radio-t.com/images/radio-t/rt286.jpg)
 
 

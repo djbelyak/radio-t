@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 434"
-date: 2015-03-07T16:42:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt434.jpg
+comments: true
+date: 2015-03-07T16:42:00
 filename: rt_podcast434
+image: https://radio-t.com/images/radio-t/rt434.jpg
+layout: post
+title: Радио-Т 434
 ---
+
 ![](https://radio-t.com/images/radio-t/rt434.jpg)
 
 * [Конечность времени против ReactOS](http://en.wikipedia.org/wiki/ReactOS)

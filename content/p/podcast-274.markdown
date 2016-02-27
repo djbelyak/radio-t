@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2012-01-29T02:51:00
+filename: rt_podcast274
 layout: post
 title: Радио-Т 274
-date: 2012-01-29T02:51:00
-comments: true
-categories: podcast
-filename: rt_podcast274
 ---
+
 ![](https://radio-t.com/images/radio-t/rt274.jpg)
 
 

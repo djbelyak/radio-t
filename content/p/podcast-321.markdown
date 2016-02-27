@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 321"
-date: 2012-12-29T14:07:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt321.jpg
+comments: true
+date: 2012-12-29T14:07:00
 filename: rt_podcast321
+image: https://radio-t.com/images/radio-t/rt321.jpg
+layout: post
+title: Радио-Т 321
 ---
+
 ![](https://radio-t.com/images/radio-t/rt321.jpg)
 
 *В честь Нового Года у нас классический-расширенный выпуск*

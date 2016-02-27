@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2007-07-01T05:57:00
+filename: rt_podcast42
 layout: post
 title: Радио-T 42
-date: 2007-07-01T05:57:00
-comments: true
-categories: podcast
-filename: rt_podcast42
 ---
+
 ![](https://radio-t.com/images/radio-t/rt42.jpg)
 
 

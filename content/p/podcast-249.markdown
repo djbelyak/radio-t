@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-07-31T02:57:00
+filename: rt_podcast249
 layout: post
 title: Радио-Т 249
-date: 2011-07-31T02:57:00
-comments: true
-categories: podcast
-filename: rt_podcast249
 ---
+
 ![](https://radio-t.com/images/radio-t/rt249.jpg)
 
 [

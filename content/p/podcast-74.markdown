@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-02-24T05:43:00
+filename: rt_podcast74
 layout: post
 title: Радио–Т 74
-date: 2008-02-24T05:43:00
-comments: true
-categories: podcast
-filename: rt_podcast74
 ---
 
 - Всем говорить только хорошо о ...

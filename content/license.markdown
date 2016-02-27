@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "Лицензия"
-date: 2012-06-14T13:31:00
 comments: true
-sharing: true
+date: 2012-06-14T13:31:00
 footer: false
+layout: page
+sharing: true
+title: Лицензия
 ---
 
 ![](/images/by-nc-nd.png)

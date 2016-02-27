@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-06-09T07:17:00
+filename: rt_podcast89
 layout: post
 title: Радио-Т 89
-date: 2008-06-09T07:17:00
-comments: true
-categories: podcast
-filename: rt_podcast89
 ---
 
 - Китайские хулиганы [против](http://webplanet.ru/node/19626) нашего электричества

@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-12-12T06:23:00
+filename: rt_podcast217
 layout: post
 title: Радио-Т 217
-date: 2010-12-12T06:23:00
-comments: true
-categories: podcast
-filename: rt_podcast217
 ---
+
 ![](https://radio-t.com/images/radio-t/rt217.jpg)
 
 - 42 и что с [ней](http://habrahabr.ru/blogs/hardware/109719/) будет дальше

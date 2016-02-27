@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 361"
-date: 2013-10-12T16:49:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt361.jpg
+comments: true
+date: 2013-10-12T16:49:00
 filename: rt_podcast361
+image: https://radio-t.com/images/radio-t/rt361.jpg
+layout: post
+title: Радио-Т 361
 ---
+
 ![](https://radio-t.com/images/radio-t/rt361.jpg)
 
 * Очень правильная идея - [BitTorrent Chat](http://blog.bittorrent.com/2013/09/30/now-in-labs-building-secure-server-less-messaging-with-bittorrent-chat/)

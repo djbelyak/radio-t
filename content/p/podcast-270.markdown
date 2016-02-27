@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-12-31T02:15:00
+filename: rt_podcast270
 layout: post
 title: Радио-Т 270
-date: 2011-12-31T02:15:00
-comments: true
-categories: podcast
-filename: rt_podcast270
 ---
+
 ![](https://radio-t.com/images/radio-t/rt270.jpg)
 
 

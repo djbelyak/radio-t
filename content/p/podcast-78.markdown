@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-03-24T08:33:00
+filename: rt_podcast78
 layout: post
 title: Радио–Т 78
-date: 2008-03-24T08:33:00
-comments: true
-categories: podcast
-filename: rt_podcast78
 ---
 
 - Слияние MS и Yahoo по [версии](http://business.compulenta.ru/351474/) Google

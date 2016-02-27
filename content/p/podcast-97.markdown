@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-08-03T07:28:00
+filename: rt_podcast97
 layout: post
 title: Радио-Т 97
-date: 2008-08-03T07:28:00
-comments: true
-categories: podcast
-filename: rt_podcast97
 ---
 
 - Нанотехнологии на страже Родины

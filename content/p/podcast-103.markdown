@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2008-09-14T09:11:00
+filename: rt_podcast103
 layout: post
 title: Радио-Т 103
-date: 2008-09-14T09:11:00
-comments: true
-categories: podcast
-filename: rt_podcast103
 ---
+
 ![](https://radio-t.com/images/radio-t/rt103.png)
 
 - С праздником!

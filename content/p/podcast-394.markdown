@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 394"
-date: 2014-05-31T17:25:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt394.jpg
+comments: true
+date: 2014-05-31T17:25:00
 filename: rt_podcast394
+image: https://radio-t.com/images/radio-t/rt394.jpg
+layout: post
+title: Радио-Т 394
 ---
+
 ![](https://radio-t.com/images/radio-t/rt394.jpg)
 
 * [Что случилось с TrueCrypt](http://gigaom.com/2014/05/29/heres-what-you-need-to-know-about-the-sudden-and-mysterious-death-of-truecrypt/)

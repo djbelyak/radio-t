@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2007-06-10T23:57:00
+filename: rt_podcast39
 layout: post
 title: Радио-T 39
-date: 2007-06-10T23:57:00
-comments: true
-categories: podcast
-filename: rt_podcast39
 ---
+
 ![](https://radio-t.com/images/radio-t/rt39.jpg)
 
 

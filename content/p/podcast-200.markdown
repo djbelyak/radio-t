@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-08-15T09:40:00
+filename: rt_podcast200
 layout: post
 title: Радио-Т 200
-date: 2010-08-15T09:40:00
-comments: true
-categories: podcast
-filename: rt_podcast200
 ---
+
 ![](https://radio-t.com/images/radio-t/rt200.png)
 
 - Оracle [против](http://www.opennet.ru/opennews/art.shtml?num=27610) Google

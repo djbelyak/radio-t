@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-04-11T06:35:00
+filename: rt_podcast182
 layout: post
 title: Радио-Т 182
-date: 2010-04-11T06:35:00
-comments: true
-categories: podcast
-filename: rt_podcast182
 ---
+
 ![](https://radio-t.com/images/radio-t/rt182.jpg)
 
 

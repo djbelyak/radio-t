@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 462"
-date: 2015-09-19T18:27:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt462.jpg
+comments: true
+date: 2015-09-19T18:27:00
 filename: rt_podcast462
+image: https://radio-t.com/images/radio-t/rt462.jpg
+layout: post
+title: Радио-Т 462
 ---
+
 ![](https://radio-t.com/images/radio-t/rt462.jpg)
 
 * [Amazon хочет сделать планшеты ширпотребом](http://geektimes.ru/post/262668/).

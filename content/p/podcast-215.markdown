@@ -1,10 +1,11 @@
 ---
+categories: podcast
+comments: true
+date: 2010-11-28T05:01:00
 layout: post
 title: Радио-Т 215
-date: 2010-11-28T05:01:00
-comments: true
-categories: podcast
 ---
+
 ![](https://radio-t.com/images/radio-t/rt215.jpg)
 
 - Конец эпохи, Novell [продается](http://habrahabr.ru/blogs/finance/108606/)

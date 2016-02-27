@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-09-05T04:12:00
+filename: rt_podcast203
 layout: post
 title: Радио-Т 203
-date: 2010-09-05T04:12:00
-comments: true
-categories: podcast
-filename: rt_podcast203
 ---
+
 ![](https://radio-t.com/images/radio-t/rt203.png)
 
 - Специально о специальном [событии](http://habrahabr.ru/blogs/apple/103304/)

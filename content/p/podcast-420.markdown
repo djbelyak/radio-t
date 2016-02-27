@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 420"
-date: 2014-11-29T15:59:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt420.jpg
+comments: true
+date: 2014-11-29T15:59:00
 filename: rt_podcast420
+image: https://radio-t.com/images/radio-t/rt420.jpg
+layout: post
+title: Радио-Т 420
 ---
+
 ![](https://radio-t.com/images/radio-t/rt420.jpg)
 
 * [Яндекс показал новый браузер](http://prsm.tc/2spFOg)

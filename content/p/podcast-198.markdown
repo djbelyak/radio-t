@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-08-01T07:57:00
+filename: rt_podcast198
 layout: post
 title: Радио-Т 198
-date: 2010-08-01T07:57:00
-comments: true
-categories: podcast
-filename: rt_podcast198
 ---
+
 ![](https://radio-t.com/images/radio-t/rt198.jpg)
 
 - С днем [сисадмина](http://habrahabr.ru/company/microsoft/blog/100491/)

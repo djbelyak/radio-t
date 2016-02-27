@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-01-31T10:34:00
+filename: rt_podcast172
 layout: post
 title: Радио-Т 172
-date: 2010-01-31T10:34:00
-comments: true
-categories: podcast
-filename: rt_podcast172
 ---
+
 ![](https://radio-t.com/images/radio-t/rt172.jpg)
 
 - [iPad](http://www.engadget.com/2010/01/29/apple-ipad-the-definitive-guide-so-far/): наш противоречивый взгляд

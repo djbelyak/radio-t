@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-03-06T04:30:00
+filename: rt_podcast25
 layout: post
 title: Радио-T 25
-date: 2007-03-06T04:30:00
-comments: true
-categories: podcast
-filename: rt_podcast25
 ---
 
 - Fusion Beta 2 c 3D ускорителем

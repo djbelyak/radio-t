@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2012-02-12T01:50:00
+filename: rt_podcast276
 layout: post
 title: Радио-Т 276
-date: 2012-02-12T01:50:00
-comments: true
-categories: podcast
-filename: rt_podcast276
 ---
+
 ![](https://radio-t.com/images/radio-t/rt276.jpg)
 
 - Знаменательный день для [Delphi](http://habrahabr.ru/blogs/delphi/137985/)

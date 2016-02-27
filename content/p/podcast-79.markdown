@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-03-30T07:44:00
+filename: rt_podcast79
 layout: post
 title: Радио–Т 79
-date: 2008-03-30T07:44:00
-comments: true
-categories: podcast
-filename: rt_podcast79
 ---
 
 - [Взлом](http://habrahabr.ru/blog/infosecurity/38584.html) на скорость

@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-02-06T06:51:00
+filename: rt_podcast225
 layout: post
 title: Радио-Т 225
-date: 2011-02-06T06:51:00
-comments: true
-categories: podcast
-filename: rt_podcast225
 ---
+
 ![](https://radio-t.com/images/radio-t/rt225.jpg)
 
 

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 334"
-date: 2013-03-30T17:30:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt334.jpg
+comments: true
+date: 2013-03-30T17:30:00
 filename: rt_podcast334
+image: https://radio-t.com/images/radio-t/rt334.jpg
+layout: post
+title: Радио-Т 334
 ---
+
 ![](https://radio-t.com/images/radio-t/rt334.jpg)
 
 * Бывает [и такое](http://arstechnica.com/information-technology/2013/03/epic-uptime-achievement-can-you-beat-16-years/) в нашем быстром мире.

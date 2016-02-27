@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-05-26T23:27:00
+filename: rt_podcast37
 layout: post
 title: Радио-T 37
-date: 2007-05-26T23:27:00
-comments: true
-categories: podcast
-filename: rt_podcast37
 ---
 
 - Чего ищут женщины в IТ

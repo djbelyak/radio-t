@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-04-06T09:34:00
+filename: rt_podcast80
 layout: post
 title: Радио–Т 80
-date: 2008-04-06T09:34:00
-comments: true
-categories: podcast
-filename: rt_podcast80
 ---
 
 - [Еще](http://net.compulenta.ru/353522/) пара взглядов на [файлообмен](http://net.compulenta.ru/353552/)

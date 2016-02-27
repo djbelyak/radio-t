@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-04-20T08:01:00
+filename: rt_podcast82
 layout: post
 title: Радио–Т 82
-date: 2008-04-20T08:01:00
-comments: true
-categories: podcast
-filename: rt_podcast82
 ---
 
 - Главный праздник недели! Надо радоваться

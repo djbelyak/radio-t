@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 343"
-date: 2013-06-01T18:17:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt343.jpg
+comments: true
+date: 2013-06-01T18:17:00
 filename: rt_podcast343
+image: https://radio-t.com/images/radio-t/rt343.jpg
+layout: post
+title: Радио-Т 343
 ---
+
 ![](https://radio-t.com/images/radio-t/rt343.jpg)
 
 * [Ubuntu баг № 1 исправлен](http://habrahabr.ru/post/181570/).

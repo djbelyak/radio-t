@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-04-19T11:54:00
+filename: rt_podcast133
 layout: post
 title: Радио-Т 133
-date: 2009-04-19T11:54:00
-comments: true
-categories: podcast
-filename: rt_podcast133
 ---
+
 ![](https://radio-t.com/images/radio-t/rt133.jpg)
 
 

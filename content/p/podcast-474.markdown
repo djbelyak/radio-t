@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 474"
-date: 2015-12-12T16:41:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt474.jpg
+comments: true
+date: 2015-12-12T16:41:00
 filename: rt_podcast474
+image: https://radio-t.com/images/radio-t/rt474.jpg
+layout: post
+title: Радио-Т 474
 ---
+
 ![](https://radio-t.com/images/radio-t/rt474.jpg)
 
 - [Прощание с Carousel и Mailbox](https://blogs.dropbox.com/dropbox/2015/12/saying-goodbye-to-carousel-and-mailbox/).

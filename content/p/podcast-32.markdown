@@ -1,10 +1,11 @@
 ---
+categories: podcast
+comments: true
+date: 2007-04-23T16:09:00
 layout: post
 title: Радио–Т 32
-date: 2007-04-23T16:09:00
-comments: true
-categories: podcast
 ---
+
 ![](https://radio-t.com/images/radio-t/rt32.jpg)
 
 - И вновь, гости в студии

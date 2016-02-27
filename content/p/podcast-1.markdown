@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-09-05T11:42:00
+filename: rt_podcast1
 layout: post
 title: Радио-T 1
-date: 2006-09-05T11:42:00
-comments: true
-categories: podcast
-filename: rt_podcast1
 ---
 
 - Крупнейшая афера виртуального мира и прочая наивная доверчивость

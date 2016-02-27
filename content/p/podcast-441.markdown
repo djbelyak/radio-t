@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 441"
-date: 2015-04-25T17:52:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt441.jpg
+comments: true
+date: 2015-04-25T17:52:00
 filename: rt_podcast441
+image: https://radio-t.com/images/radio-t/rt441.jpg
+layout: post
+title: Радио-Т 441
 ---
+
 ![](https://radio-t.com/images/radio-t/rt441.jpg)
 
 * [Размер AWS теперь не тайна](http://www.bloomberg.com/news/articles/2015-04-23/amazon-finally-discloses-cloud-services-sales-showing-49-jump).

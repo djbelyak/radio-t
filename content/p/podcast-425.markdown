@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 425"
-date: 2015-01-03T16:45:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt425.jpg
+comments: true
+date: 2015-01-03T16:45:00
 filename: rt_podcast425
+image: https://radio-t.com/images/radio-t/rt425.jpg
+layout: post
+title: Радио-Т 425
 ---
+
 ![](https://radio-t.com/images/radio-t/rt425.jpg)
 
 * [Важное в области разработки за 2014](http://marxsoftware.blogspot.com/2014/12/big-news-2014.html)

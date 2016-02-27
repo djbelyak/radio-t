@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 357"
-date: 2013-09-14T16:33:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt357.jpg
+comments: true
+date: 2013-09-14T16:33:00
 filename: rt_podcast357
+image: https://radio-t.com/images/radio-t/rt357.jpg
+layout: post
+title: Радио-Т 357
 ---
+
 ![](https://radio-t.com/images/radio-t/rt357.jpg)
 
 * Гости о [parallels access](http://www.parallels.com/products/access/) и прочих новинках.

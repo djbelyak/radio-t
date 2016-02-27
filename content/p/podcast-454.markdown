@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Радио-Т 454"
-date: 2015-07-26T00:58:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt454.jpg
+comments: true
+date: 2015-07-26T00:58:00
 filename: rt_podcast454
+image: https://radio-t.com/images/radio-t/rt454.jpg
+layout: post
+title: Радио-Т 454
 ---
 
 * [Fire Phone год спустя](http://www.cnet.com/news/fire-phone-one-year-later-why-amazons-smartphone-flamed-out/).

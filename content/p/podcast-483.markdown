@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "Радио-Т 483"
-date: 2016-02-13T16:37:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt483.jpg
+comments: true
+date: 2016-02-13T16:37:00
 filename: rt_podcast483
+image: https://radio-t.com/images/radio-t/rt483.jpg
+layout: post
 slug: podcast-483
+title: Радио-Т 483
 ---
+
 ![](https://radio-t.com/images/radio-t/rt483.jpg)
 
 - [Netflix завершил переезд в облако конкурента](http://arstechnica.com/information-technology/2016/02/netflix-finishes-its-massive-migration-to-the-amazon-cloud/). - *00:01:26*.

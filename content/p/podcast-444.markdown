@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 444"
-date: 2015-05-16T17:56:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt444.jpg
+comments: true
+date: 2015-05-16T17:56:00
 filename: rt_podcast444
+image: https://radio-t.com/images/radio-t/rt444.jpg
+layout: post
+title: Радио-Т 444
 ---
+
 ![](https://radio-t.com/images/radio-t/rt444.jpg)
 
 * [Google поддержит облака и для внутреннего употребления](http://prsm.tc/4Oq7VX).

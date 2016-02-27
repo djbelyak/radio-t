@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-10-03T09:00:00
+filename: rt_podcast207
 layout: post
 title: Радио-Т 207
-date: 2010-10-03T09:00:00
-comments: true
-categories: podcast
-filename: rt_podcast207
 ---
+
 ![](https://radio-t.com/images/radio-t/rt207.jpg)
 
 - Они поставят памятник [Туксу](http://www.opennet.ru/opennews/art.shtml?num=28058)

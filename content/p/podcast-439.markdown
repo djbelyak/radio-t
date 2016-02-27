@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 439"
-date: 2015-04-11T17:29:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt439.jpg
+comments: true
+date: 2015-04-11T17:29:00
 filename: rt_podcast439
+image: https://radio-t.com/images/radio-t/rt439.jpg
+layout: post
+title: Радио-Т 439
 ---
+
 ![](https://radio-t.com/images/radio-t/rt439.jpg)
 
 * [Microsoft отмечает 40-летний юбилей](http://geektimes.ru/post/248534/).

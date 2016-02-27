@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 316"
-date: 2012-11-24T15:27:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-11-24T15:27:00
 filename: rt_podcast316
+layout: post
+title: Радио-Т 316
 ---
+
 ![](https://radio-t.com/images/radio-t/rt316.jpg)
 
 * [Linux Mint 14](http://arstechnica.com/information-technology/2012/11/linux-mint-14-released-leaves-fresh-taste-in-our-mouths/) хорошо вышел

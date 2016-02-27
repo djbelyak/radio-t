@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-05-04T09:51:00
+filename: rt_podcast84
 layout: post
 title: Радио-Т 84
-date: 2008-05-04T09:51:00
-comments: true
-categories: podcast
-filename: rt_podcast84
 ---
 
 - Защита данных в коробке

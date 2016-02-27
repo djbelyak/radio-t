@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-09-12T05:34:00
+filename: rt_podcast204
 layout: post
 title: Радио-Т 204
-date: 2010-09-12T05:34:00
-comments: true
-categories: podcast
-filename: rt_podcast204
 ---
+
 ![](https://radio-t.com/images/radio-t/rt204.jpg)
 
 - Очень живой поиск. Редакция одобряет

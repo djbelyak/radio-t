@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-01-02T05:00:00
+filename: rt_podcast220
 layout: post
 title: Радио-Т 220
-date: 2011-01-02T05:00:00
-comments: true
-categories: podcast
-filename: rt_podcast220
 ---
+
 ![](https://radio-t.com/images/radio-t/rt220.jpg)
 
 - Зачем нам нужна Kate

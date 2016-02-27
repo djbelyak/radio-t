@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 350"
-date: 2013-07-27T17:35:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt350.jpg
+comments: true
+date: 2013-07-27T17:35:00
 filename: rt_podcast350
+image: https://radio-t.com/images/radio-t/rt350.jpg
+layout: post
+title: Радио-Т 350
 ---
+
 ![](https://radio-t.com/images/radio-t/rt350.jpg)
 
 * Поздравляем с [днем системного администратора](http://habrahabr.ru/company/mailru/blog/187918/)

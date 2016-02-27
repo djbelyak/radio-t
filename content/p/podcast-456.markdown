@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 456"
-date: 2015-08-08T17:29:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt456.jpg
+comments: true
+date: 2015-08-08T17:29:00
 filename: rt_podcast456
+image: https://radio-t.com/images/radio-t/rt456.jpg
+layout: post
+title: Радио-Т 456
 ---
+
 ![](https://radio-t.com/images/radio-t/rt456.jpg)
 
 * [Windows 10](http://www.theverge.com/2015/7/28/9045331/microsoft-windows-10-review).

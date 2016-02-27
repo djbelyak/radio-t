@@ -1,12 +1,12 @@
 ---
+categories: podcast special
+comments: true
+date: 2011-12-04T03:00:00
+filename: rt_podcast266
 layout: post
 title: Радио-Т 266
-date: 2011-12-04T03:00:00
-comments: true
-categories: podcast special
-
-filename: rt_podcast266
 ---
+
 ![](https://radio-t.com/images/radio-t/rt266.png)
 
 - Час [скалы](http://blog.joda.org/2011/11/real-life-scala-feedback-from-yammer.html).

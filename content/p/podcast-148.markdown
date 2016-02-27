@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-08-09T07:31:00
+filename: rt_podcast148
 layout: post
 title: Радио-Т 148
-date: 2009-08-09T07:31:00
-comments: true
-categories: podcast
-filename: rt_podcast148
 ---
+
 ![](https://radio-t.com/images/radio-t/rt148.jpg)
 
 

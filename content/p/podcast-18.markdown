@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-01-15T04:44:00
+filename: rt_podcast18
 layout: post
 title: Радио-T 18
-date: 2007-01-15T04:44:00
-comments: true
-categories: podcast
-filename: rt_podcast18
 ---
 
 - Язык D. Оно нам надо ?

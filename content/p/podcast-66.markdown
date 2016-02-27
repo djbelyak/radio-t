@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-12-23T07:14:00
+filename: rt_podcast66
 layout: post
 title: Радио–Т 66
-date: 2007-12-23T07:14:00
-comments: true
-categories: podcast
-filename: rt_podcast66
 ---
 
 - Итоги по версии Google

@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-11-25T04:07:00
+filename: rt_podcast62
 layout: post
 title: Радио–Т 62
-date: 2007-11-25T04:07:00
-comments: true
-categories: podcast
-filename: rt_podcast62
 ---
 
 Выпуск, в определенном смысле, экспериментально–аварийный. Но мы сделали все, что могли.

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 302"
-date: 2012-08-18T16:30:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-08-18T16:30:00
 filename: rt_podcast302
+layout: post
+title: Радио-Т 302
 ---
+
 ![](https://radio-t.com/images/radio-t/rt302.jpg)
 
 * Как [зашурупили](http://addmeto.cc/post/2012-08-14-trust-no-one/) Apple-сообщество

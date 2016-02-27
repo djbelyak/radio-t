@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 463"
-date: 2015-09-26T17:39:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt463.jpg
+comments: true
+date: 2015-09-26T17:39:00
 filename: rt_podcast463
+image: https://radio-t.com/images/radio-t/rt463.jpg
+layout: post
+title: Радио-Т 463
 ---
+
 ![](https://radio-t.com/images/radio-t/rt463.jpg)
 
 * [Немалые проблем с AWS](http://searchaws.techtarget.com/news/4500253914/Cascading-AWS-outage-stokes-cloud-fears).

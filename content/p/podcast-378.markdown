@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 378"
-date: 2014-02-08T16:01:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt378.jpg
+comments: true
+date: 2014-02-08T16:01:00
 filename: rt_podcast378
+image: https://radio-t.com/images/radio-t/rt378.jpg
+layout: post
+title: Радио-Т 378
 ---
+
 ![](https://radio-t.com/images/radio-t/rt378.jpg)
 
 * Что Сатья [должен сделать прямо сейчас](http://habrahabr.ru/post/211741/).

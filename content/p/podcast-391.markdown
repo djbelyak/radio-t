@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 391"
-date: 2014-05-10T17:50:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt391.jpg
+comments: true
+date: 2014-05-10T17:50:00
 filename: rt_podcast391
+image: https://radio-t.com/images/radio-t/rt391.jpg
+layout: post
+title: Радио-Т 391
 ---
+
 ![](https://radio-t.com/images/radio-t/rt391.jpg)
 
 * [Chrome спрячет URL](http://disconnected.craig.is/where-did-my-url-go-chrome/).

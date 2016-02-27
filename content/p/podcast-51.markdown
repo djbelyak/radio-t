@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-09-09T05:59:00
+filename: rt_podcast51
 layout: post
 title: Радио-T 51
-date: 2007-09-09T05:59:00
-comments: true
-categories: podcast
-filename: rt_podcast51
 ---
 
 - Новинки этой недели от Apple

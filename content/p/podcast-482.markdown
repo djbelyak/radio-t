@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 482"
-date: 2016-02-06T16:48:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt482.jpg
+comments: true
+date: 2016-02-06T16:48:00
 filename: rt_podcast482
+image: https://radio-t.com/images/radio-t/rt482.jpg
+layout: post
+title: Радио-Т 482
 ---
+
 ![](https://radio-t.com/images/radio-t/rt482.jpg)
 
 - [Разработчики как коты в коробке](http://mikehadlow.blogspot.com/2014/06/heisenberg-developers.html) - *00:04:09*.

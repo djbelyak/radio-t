@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 443"
-date: 2015-05-09T18:37:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt443.jpg
+comments: true
+date: 2015-05-09T18:37:00
 filename: rt_podcast443
+image: https://radio-t.com/images/radio-t/rt443.jpg
+layout: post
+title: Радио-Т 443
 ---
+
 ![](https://radio-t.com/images/radio-t/rt443.jpg)
 
 * [Docker через 2 года](https://blog.docker.com/2015/05/dockers-2nd-birthday-by-the-numbers/).

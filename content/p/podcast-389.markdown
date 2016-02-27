@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 389"
-date: 2014-04-26T16:57:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt389.jpg
+comments: true
+date: 2014-04-26T16:57:00
 filename: rt_podcast389
+image: https://radio-t.com/images/radio-t/rt389.jpg
+layout: post
+title: Радио-Т 389
 ---
+
 ![](https://radio-t.com/images/radio-t/rt389.jpg)
 
 * [Nokia теперь в Microsoft](http://conversations.nokia.com/2014/04/25/now-one-microsoft-open-letter-stephen-elop/)

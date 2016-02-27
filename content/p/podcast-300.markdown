@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 300"
-date: 2012-08-04T20:35:00
-comments: true
 categories: podcast special
+comments: true
+date: 2012-08-04T20:35:00
 filename: rt_podcast300
+layout: post
+title: Радио-Т 300
 ---
+
 ![](https://radio-t.com/images/radio-t/rt300.jpg)
 
 * Это катастрофа - [Nokia продаст Qt](http://www.networkworld.com/community/blog/nokia-preps-sell-qt-not-elop-screws-it)

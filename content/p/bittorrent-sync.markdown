@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Радио-Т через BitTorrent Sync"
-date: 2013-04-25T14:20:00
-comments: true
 categories: news
+comments: true
+date: 2013-04-25T14:20:00
+layout: post
+title: Радио-Т через BitTorrent Sync
 ---
+
 ![](https://radio-t.com/images/radio-t/bts.jpg)
 
 У нас появился странный, но любопытный и весьма гиковский способ получать подкасты - _[BitTorrent Sync](http://labs.bittorrent.com/experiments/sync.html)_

@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-08-08T05:37:00
+filename: rt_podcast199
 layout: post
 title: Радио-Т 199
-date: 2010-08-08T05:37:00
-comments: true
-categories: podcast
-filename: rt_podcast199
 ---
+
 ![](https://radio-t.com/images/radio-t/rt199.jpg)
 
 - Прощай, [Google Wave](http://techcrunch.com/2010/08/04/wave-goodbye-to-google-wave/)

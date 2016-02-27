@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 478"
-date: 2016-01-09T17:55:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt478.jpg
+comments: true
+date: 2016-01-09T17:55:00
 filename: rt_podcast478
+image: https://radio-t.com/images/radio-t/rt478.jpg
+layout: post
+title: Радио-Т 478
 ---
+
 ![](https://radio-t.com/images/radio-t/rt478.jpg)
 
 - [Держитесь подальше от этого](https://news.radio-t.com/post/external-storage).

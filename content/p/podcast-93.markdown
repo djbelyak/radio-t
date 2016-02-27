@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-07-06T09:19:00
+filename: rt_podcast93
 layout: post
 title: Радио-Т 93
-date: 2008-07-06T09:19:00
-comments: true
-categories: podcast
-filename: rt_podcast93
 ---
 
 - Интернет сломался, или зачем Бобук туда ходит

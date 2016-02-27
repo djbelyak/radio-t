@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 358"
-date: 2013-09-21T17:47:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt358.jpg
+comments: true
+date: 2013-09-21T17:47:00
 filename: rt_podcast358
+image: https://radio-t.com/images/radio-t/rt358.jpg
+layout: post
+title: Радио-Т 358
 ---
+
 ![](https://radio-t.com/images/radio-t/rt358.jpg)
 
 * [Пять лет Stack Overflow](http://habrahabr.ru/post/194036/).

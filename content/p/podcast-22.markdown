@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-02-13T12:28:00
+filename: rt_podcast22
 layout: post
 title: Радио-T 22
-date: 2007-02-13T12:28:00
-comments: true
-categories: podcast
-filename: rt_podcast22
 ---
 
 - Два больных ведущих в виртуальной студии

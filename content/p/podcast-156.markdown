@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-10-04T05:16:00
+filename: rt_podcast156
 layout: post
 title: Радио-Т 156
-date: 2009-10-04T05:16:00
-comments: true
-categories: podcast
-filename: rt_podcast156
 ---
+
 ![](https://radio-t.com/images/radio-t/rt156.png)
 
 

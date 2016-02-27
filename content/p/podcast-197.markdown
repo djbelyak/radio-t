@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-07-25T06:22:00
+filename: rt_podcast197
 layout: post
 title: Радио-Т 197
-date: 2010-07-25T06:22:00
-comments: true
-categories: podcast
-filename: rt_podcast197
 ---
+
 ![](https://radio-t.com/images/radio-t/rt197.jpg)
 
 - Убитые деревья проигрывают [битву](http://mashable.com/2010/07/19/amazon-kindle-sales/)

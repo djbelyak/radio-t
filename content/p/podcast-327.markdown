@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 327"
-date: 2013-02-09T15:39:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt327.jpg
+comments: true
+date: 2013-02-09T15:39:00
 filename: rt_podcast327
+image: https://radio-t.com/images/radio-t/rt327.jpg
+layout: post
+title: Радио-Т 327
 ---
+
 ![](https://radio-t.com/images/radio-t/rt327.jpg)
 
 * [Surface Pro 128 GB](http://winsupersite.com/windows-8/surface-pro-128-gb-immediately-sells-out) разошлись как горячие пирожки.

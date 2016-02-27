@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2012-05-20T03:37:00
+filename: rt_podcast289
 layout: post
 title: Радио-Т 289
-date: 2012-05-20T03:37:00
-comments: true
-categories: podcast
-filename: rt_podcast289
 ---
+
 ![](https://radio-t.com/images/radio-t/rt289.jpeg)
 
 

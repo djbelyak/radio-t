@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-08-12T01:41:00
+filename: rt_podcast47
 layout: post
 title: Радио-T 47
-date: 2007-08-12T01:41:00
-comments: true
-categories: podcast
-filename: rt_podcast47
 ---
 
 - Главное событие IT недели

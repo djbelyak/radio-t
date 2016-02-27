@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 310"
-date: 2012-10-13T18:31:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-10-13T18:31:00
 filename: rt_podcast310
+layout: post
+title: Радио-Т 310
 ---
+
 ![](https://radio-t.com/images/radio-t/rt310.jpg)
 
 * Линус Торвальдс ответил на вопросы [посетителей slashdot.org](http://www.zdnet.com/linus-torvalds-interviewed-by-slashdot-readers-7000005697/)

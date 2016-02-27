@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 471"
-date: 2015-11-21T18:13:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt471.jpg
+comments: true
+date: 2015-11-21T18:13:00
 filename: rt_podcast471
+image: https://radio-t.com/images/radio-t/rt471.jpg
+layout: post
+title: Радио-Т 471
 ---
+
 ![](https://radio-t.com/images/radio-t/rt471.jpg)
 
 * [“Hoverboard” - самая крутая технология 2015](http://www.ACASUALSENSE.com/hoverboard-coolest-technology-of-2015/).

@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-01-16T05:43:00
+filename: rt_podcast222
 layout: post
 title: Радио-Т 222
-date: 2011-01-16T05:43:00
-comments: true
-categories: podcast
-filename: rt_podcast222
 ---
+
 ![](https://radio-t.com/images/radio-t/rt222.png)
 
 - [Анализ](http://www.opennet.ru/opennews/art.shtml?num=29236) популярности языков программирования в 2010

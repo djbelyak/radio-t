@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 298"
-date: 2012-07-21T16:51:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-07-21T16:51:00
 filename: rt_podcast298
+layout: post
+title: Радио-Т 298
 ---
+
 ![](https://radio-t.com/images/radio-t/rt298.jpg)
 
 * О виртуализации вообще и Parallels в частности.

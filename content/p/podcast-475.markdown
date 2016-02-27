@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 475"
-date: 2015-12-19T16:39:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt475.jpg
+comments: true
+date: 2015-12-19T16:39:00
 filename: rt_podcast475
+image: https://radio-t.com/images/radio-t/rt475.jpg
+layout: post
+title: Радио-Т 475
 ---
+
 ![](https://radio-t.com/images/radio-t/rt475.jpg)
 
 - [Поломать линукс за 28 нажатий](http://www.engadget.com/2015/12/18/log-into-most-any-linux-system-by-hitting-backspace-28-times/).

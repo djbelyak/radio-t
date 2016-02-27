@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2008-12-21T10:42:00
+filename: rt_podcast117
 layout: post
 title: Радио–Т 117
-date: 2008-12-21T10:42:00
-comments: true
-categories: podcast
-filename: rt_podcast117
 ---
+
 ![](https://radio-t.com/images/radio-t/rt117.jpg)
 
 

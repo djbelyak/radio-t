@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-11-12T09:56:00
+filename: rt_podcast10
 layout: post
 title: Радио-T 10
-date: 2006-11-12T09:56:00
-comments: true
-categories: podcast
-filename: rt_podcast10
 ---
 
 - Xbox Vs. iTV

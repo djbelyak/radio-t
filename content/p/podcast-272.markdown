@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2012-01-15T02:34:00
+filename: rt_podcast272
 layout: post
 title: Радио-Т 272
-date: 2012-01-15T02:34:00
-comments: true
-categories: podcast
-filename: rt_podcast272
 ---
+
 ![](https://radio-t.com/images/radio-t/rt272.jpg)
 
 - 7 лет [мелкому](http://www.tuaw.com/2012/01/11/happy-7th-anniversary-to-the-mac-mini/), но знатному

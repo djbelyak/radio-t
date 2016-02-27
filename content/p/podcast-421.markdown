@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 421"
-date: 2014-12-06T17:50:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt421.jpg
+comments: true
+date: 2014-12-06T17:50:00
 filename: rt_podcast421
+image: https://radio-t.com/images/radio-t/rt421.jpg
+layout: post
+title: Радио-Т 421
 ---
+
 ![](https://radio-t.com/images/radio-t/rt421.jpg)
 
 * [Как CoreOS и Docker посорились](http://prsm.tc/zuzt2P)

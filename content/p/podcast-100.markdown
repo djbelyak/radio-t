@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2008-08-24T08:50:00
+filename: rt_podcast100
 layout: post
 title: Радио-Т 100
-date: 2008-08-24T08:50:00
-comments: true
-categories: podcast
-filename: rt_podcast100
 ---
+
 ![](https://radio-t.com/images/radio-t/rt100.jpg)
 
 

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 384"
-date: 2014-03-22T16:54:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt384.jpg
+comments: true
+date: 2014-03-22T16:54:00
 filename: rt_podcast384
+image: https://radio-t.com/images/radio-t/rt384.jpg
+layout: post
+title: Радио-Т 384
 ---
+
 ![](https://radio-t.com/images/radio-t/rt384.jpg)
 
 * [Выход Java 8](http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html).

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 431"
-date: 2015-02-14T17:00:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt431.jpg
+comments: true
+date: 2015-02-14T17:00:00
 filename: rt_podcast431
+image: https://radio-t.com/images/radio-t/rt431.jpg
+layout: post
+title: Радио-Т 431
 ---
+
 ![](https://radio-t.com/images/radio-t/rt431.jpg)
 
 * [iWork для всех](http://prsm.tc/dmaOft)

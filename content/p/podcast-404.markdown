@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 404"
-date: 2014-08-09T17:20:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt404.jpg
+comments: true
+date: 2014-08-09T17:20:00
 filename: rt_podcast404
+image: https://radio-t.com/images/radio-t/rt404.jpg
+layout: post
+title: Радио-Т 404
 ---
+
 ![](https://radio-t.com/images/radio-t/rt404.jpg)
 
 * [Злые русские украли все пароли](http://mashable.com/2014/08/05/russian-hacker-passwords/).

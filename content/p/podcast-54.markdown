@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-09-30T06:28:00
+filename: rt_podcast54
 layout: post
 title: Радио-T 54
-date: 2007-09-30T06:28:00
-comments: true
-categories: podcast
-filename: rt_podcast54
 ---
 
 - iPocalypse наступил

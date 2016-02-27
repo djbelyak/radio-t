@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 428"
-date: 2015-01-24T17:13:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt428.jpg
+comments: true
+date: 2015-01-24T17:13:00
 filename: rt_podcast428
+image: https://radio-t.com/images/radio-t/rt428.jpg
+layout: post
+title: Радио-Т 428
 ---
+
 ![](https://radio-t.com/images/radio-t/rt428.jpg)
 
 * [Все, что надо знать о Windows 10](http://prsm.tc/2Cqz7o)

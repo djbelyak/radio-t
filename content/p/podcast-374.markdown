@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 374"
-date: 2014-01-11T16:29:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt374.jpg
+comments: true
+date: 2014-01-11T16:29:00
 filename: rt_podcast374
+image: https://radio-t.com/images/radio-t/rt374.jpg
+layout: post
+title: Радио-Т 374
 ---
+
 ![](https://radio-t.com/images/radio-t/rt374.jpg)
 
 * [ДР iPhone](http://www.huffingtonpost.com/2014/01/09/iphone-birthday_n_4568653.html) и пострадавшие.

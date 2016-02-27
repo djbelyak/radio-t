@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Радио-Т 296"
-date: 2012-07-07T18:11:00
-comments: true
 categories: podcast special
+comments: true
+date: 2012-07-07T18:11:00
 filename: rt_podcast296
+layout: post
+title: Радио-Т 296
 ---
 
 ![](https://radio-t.com/images/radio-t/rt296.png)

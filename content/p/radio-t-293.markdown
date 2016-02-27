@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 293"
-date: 2012-06-16T18:09:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-06-16T18:09:00
 filename: rt_podcast293
+layout: post
+title: Радио-Т 293
 ---
+
 ![](https://radio-t.com/images/radio-t/rt293.jpeg)
 
 - [WWDC 2012](http://www.engadget.com/2012/06/11/wwdc-2012-keynote-roundup/) вполне хороша!

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 307"
-date: 2012-09-22T17:08:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-09-22T17:08:00
 filename: rt_podcast307
+layout: post
+title: Радио-Т 307
 ---
+
 ![](https://radio-t.com/images/radio-t/rt307.jpg)
 
 * Конец [эры персональных компьютеров](http://allthingsd.com/20120915/its-official-the-era-of-the-personal-computer-is-over/)

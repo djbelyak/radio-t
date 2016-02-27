@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-10-30T01:55:00
+filename: rt_podcast261
 layout: post
 title: Радио-Т 261
-date: 2011-10-30T01:55:00
-comments: true
-categories: podcast
-filename: rt_podcast261
 ---
+
 ![](https://radio-t.com/images/radio-t/rt261.jpg)
 
 

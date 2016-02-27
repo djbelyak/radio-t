@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-11-26T04:55:00
+filename: rt_podcast12
 layout: post
 title: Радио-T 12
-date: 2006-11-26T04:55:00
-comments: true
-categories: podcast
-filename: rt_podcast12
 ---
 
 - Резкое заявление Novell

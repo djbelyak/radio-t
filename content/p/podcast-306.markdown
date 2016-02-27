@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 306"
-date: 2012-09-15T17:20:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-09-15T17:20:00
 filename: rt_podcast306
+layout: post
+title: Радио-Т 306
 ---
+
 ![](https://radio-t.com/images/radio-t/rt306.jpg)
 
 * Большое [шоу от Apple](http://mashable.com/2012/09/12/apple-iphone-5-event-recap/) и что там не так

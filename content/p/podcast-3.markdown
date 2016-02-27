@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-09-24T11:33:00
+filename: rt_podcast3
 layout: post
 title: Радио-T 3
-date: 2006-09-24T11:33:00
-comments: true
-categories: podcast
-filename: rt_podcast3
 ---
 
 - Они за нами подсматривают и читают наши письма

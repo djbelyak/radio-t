@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-10-21T05:02:00
+filename: rt_podcast57
 layout: post
 title: Радио-T 57
-date: 2007-10-21T05:02:00
-comments: true
-categories: podcast
-filename: rt_podcast57
 ---
 
 - Ubuntu 7.10. Как хорошо с линукс по жизни.

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 314"
-date: 2012-11-10T15:47:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-11-10T15:47:00
 filename: rt_podcast314
+layout: post
+title: Радио-Т 314
 ---
+
 ![](https://radio-t.com/images/radio-t/rt314.jpg)
 
 * Чем [победа Обамы](http://techcrunch.com/2012/11/06/obama-wins-the-election-heres-his-technology-agenda/) грозит хайтеку

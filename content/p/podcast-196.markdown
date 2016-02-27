@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-07-18T05:40:00
+filename: rt_podcast196
 layout: post
 title: Радио-Т 196
-date: 2010-07-18T05:40:00
-comments: true
-categories: podcast
-filename: rt_podcast196
 ---
+
 ![](https://radio-t.com/images/radio-t/rt196.jpg)
 
 - С антеной все плохо, Consumer Reports [негодует](http://mashable.com/2010/07/12/iphone-4-consumer-reports/)

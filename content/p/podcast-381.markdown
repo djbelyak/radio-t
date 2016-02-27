@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 381"
-date: 2014-03-01T16:17:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt381.jpg
+comments: true
+date: 2014-03-01T16:17:00
 filename: rt_podcast381
+image: https://radio-t.com/images/radio-t/rt381.jpg
+layout: post
+title: Радио-Т 381
 ---
+
 ![](https://radio-t.com/images/radio-t/rt381.jpg)
 
 * [Atom от Github](http://code.tutsplus.com/tutorials/check-out-atom-githubs-new-development-editor--net-37030).

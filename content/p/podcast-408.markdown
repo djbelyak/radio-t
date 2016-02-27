@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 408"
-date: 2014-09-06T17:00:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt408.jpg
+comments: true
+date: 2014-09-06T17:00:00
 filename: rt_podcast408
+image: https://radio-t.com/images/radio-t/rt408.jpg
+layout: post
+title: Радио-Т 408
 ---
+
 ![](https://radio-t.com/images/radio-t/rt408.jpg)
 
 * [DigitalOcean продвигаeт CoreOS](http://techcrunch.com/2014/09/05/digitalocean-partners-with-coreos-to-bring-large-scale-cluster-deployments-to-its-platform/) в массы.

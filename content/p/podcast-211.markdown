@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-10-31T05:01:00
+filename: rt_podcast211
 layout: post
 title: Радио-Т 211
-date: 2010-10-31T05:01:00
-comments: true
-categories: podcast
-filename: rt_podcast211
 ---
+
 ![](https://radio-t.com/images/radio-t/rt211.jpg)
 
 - Новый русский [IT–налог](http://www.opennet.ru/opennews/art.shtml?num=28399)

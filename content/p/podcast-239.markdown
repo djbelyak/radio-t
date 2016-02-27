@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-05-15T02:14:00
+filename: rt_podcast239
 layout: post
 title: Радио-Т 239
-date: 2011-05-15T02:14:00
-comments: true
-categories: podcast
-filename: rt_podcast239
 ---
+
 ![](https://radio-t.com/images/radio-t/rt239.jpg)
 
 - Нас опять [продали](http://internetno.net/2011/05/13/sdelka-microsoft-i-skype-analiz-perspektiv-mnenijj-ocenok/), оптом

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 473"
-date: 2015-12-05T16:48:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt473.jpg
+comments: true
+date: 2015-12-05T16:48:00
 filename: rt_podcast473
+image: https://radio-t.com/images/radio-t/rt473.jpg
+layout: post
+title: Радио-Т 473
 ---
+
 ![](https://radio-t.com/images/radio-t/rt473.jpg)
 
 - [Let's Encrypt – SSL для всех, но не для каждого](http://boingboing.net/2015/12/03/lets-encrypt-enters-public-b.html).

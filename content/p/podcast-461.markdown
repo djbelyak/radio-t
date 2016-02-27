@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 461"
-date: 2015-09-12T18:11:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt461.jpg
+comments: true
+date: 2015-09-12T18:11:00
 filename: rt_podcast461
+image: https://radio-t.com/images/radio-t/rt461.jpg
+layout: post
+title: Радио-Т 461
 ---
+
 ![](https://radio-t.com/images/radio-t/rt461.jpg)
 
 * [Все, что нам показали](http://thenextweb.com/apple/2015/09/09/everything-apple-announced-at-its-september-2015-event/).

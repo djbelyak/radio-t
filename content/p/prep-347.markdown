@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "Темы для 347"
-date: 2013-07-02T18:45:00
+categories: prep
 comments: true
-categories: prep 
+date: 2013-07-02T18:45:00
+layout: post
+title: Темы для 347
 ---
+

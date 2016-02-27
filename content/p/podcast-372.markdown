@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 372"
-date: 2013-12-28T14:58:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt372.jpg
+comments: true
+date: 2013-12-28T14:58:00
 filename: rt_podcast372
+image: https://radio-t.com/images/radio-t/rt372.jpg
+layout: post
+title: Радио-Т 372
 ---
+
 ![](https://radio-t.com/images/radio-t/rt372.jpg)
 
 * [2013 - год разочарований](http://qz.com/161443/2013-was-a-lost-year-for-tech/).

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 432"
-date: 2015-02-21T16:57:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt432.jpg
+comments: true
+date: 2015-02-21T16:57:00
 filename: rt_podcast432
+image: https://radio-t.com/images/radio-t/rt432.jpg
+layout: post
+title: Радио-Т 432
 ---
+
 ![](https://radio-t.com/images/radio-t/rt432.jpg)
 
 * [Как падает Google Cloud](https://status.cloud.google.com/incident/compute/15045)

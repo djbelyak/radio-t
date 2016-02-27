@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 452"
-date: 2015-07-11T18:27:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt452.jpg
+comments: true
+date: 2015-07-11T18:27:00
 filename: rt_podcast452
+image: https://radio-t.com/images/radio-t/rt452.jpg
+layout: post
+title: Радио-Т 452
 ---
+
 ![](https://radio-t.com/images/radio-t/rt452.jpg)
 
 * [Линус о наступление AI](http://gizmodo.com/linux-creator-linus-torvalds-laughs-at-the-ai-apocalyps-1716383135).

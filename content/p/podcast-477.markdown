@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 477"
-date: 2016-01-02T18:02:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt477.jpg
+comments: true
+date: 2016-01-02T18:02:00
 filename: rt_podcast477
+image: https://radio-t.com/images/radio-t/rt477.jpg
+layout: post
+title: Радио-Т 477
 ---
+
 ![](https://radio-t.com/images/radio-t/rt477.jpg)
 
 - Вне плана о [code review](https://news.radio-t.com/post/code-review).

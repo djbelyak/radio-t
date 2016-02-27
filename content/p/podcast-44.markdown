@@ -1,12 +1,11 @@
 ---
+categories: podcast
+comments: true
+date: 2007-07-14T21:43:00
+filename: rt_podcast44
 layout: post
 title: Радио-Т 44
-date: 2007-07-14T21:43:00
-comments: true
-categories: podcast
-filename: rt_podcast44
 ---
-
 
 - На чем бежит Web 2.0?
 - Новое поколение социальных сетей от гигантов IT

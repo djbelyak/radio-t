@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 319"
-date: 2012-12-15T16:21:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt319.jpg
+comments: true
+date: 2012-12-15T16:21:00
 filename: rt_podcast319
+image: https://radio-t.com/images/radio-t/rt319.jpg
+layout: post
+title: Радио-Т 319
 ---
+
 ![](https://radio-t.com/images/radio-t/rt319.jpg)
 
 * У нас в гостях основатель [правильного музея](http://www.cultofmac.com/195205/more-macs-than-they-can-count-inside-the-moscow-apple-museum-gallery/).

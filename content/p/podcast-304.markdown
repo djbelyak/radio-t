@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 304"
-date: 2012-09-01T17:34:00
-comments: true
 categories: podcast special
+comments: true
+date: 2012-09-01T17:34:00
 filename: rt_podcast304
+layout: post
+title: Радио-Т 304
 ---
+
 ![](https://radio-t.com/images/radio-t/rt304.jpg)
 
 * Релиз [MongoDB 2.2](http://www.opennet.ru/opennews/art.shtml?num=34702) - что новенького

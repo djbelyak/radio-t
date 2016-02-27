@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2012-03-25T02:54:00
+filename: rt_podcast281
 layout: post
 title: Радио-Т 281
-date: 2012-03-25T02:54:00
-comments: true
-categories: podcast
-filename: rt_podcast281
 ---
+
 ![](https://radio-t.com/images/radio-t/rt281.jpg)
 
 - Дружно поздравляем [Twitter](http://mashable.com/2012/03/21/happy-6th-birthday-twitter/) и [GCC](https://www.linux.com/news/featured-blogs/196:zonker/556977:the-compiler-that-changed-the-world-turns-25)

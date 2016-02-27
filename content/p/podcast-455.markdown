@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 455"
-date: 2015-08-01T18:22:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt455.jpg
+comments: true
+date: 2015-08-01T18:22:00
 filename: rt_podcast455
+image: https://radio-t.com/images/radio-t/rt455.jpg
+layout: post
+title: Радио-Т 455
 ---
+
 ![](https://radio-t.com/images/radio-t/rt455.jpg)
 
 * Вводные разговоры.

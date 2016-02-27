@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-05-29T02:01:00
+filename: rt_podcast240
 layout: post
 title: Радио-Т 240
-date: 2011-05-29T02:01:00
-comments: true
-categories: podcast
-filename: rt_podcast240
 ---
+
 ![](https://radio-t.com/images/radio-t/rt240.png)
 
 - 20 лет стукнуло [интер-вебу](http://habrahabr.ru/blogs/internet/119473/)

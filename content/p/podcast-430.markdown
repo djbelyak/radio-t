@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 430"
-date: 2015-02-07T17:51:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt430.jpg
+comments: true
+date: 2015-02-07T17:51:00
 filename: rt_podcast430
+image: https://radio-t.com/images/radio-t/rt430.jpg
+layout: post
+title: Радио-Т 430
 ---
+
 ![](https://radio-t.com/images/radio-t/rt430.jpg)
 
 * [Яндекс сделал беспарольную двухфакторную аутентификацию](http://habrahabr.ru/company/yandex/blog/249547/)

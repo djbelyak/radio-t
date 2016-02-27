@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 423"
-date: 2014-12-20T17:05:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt423.jpg
+comments: true
+date: 2014-12-20T17:05:00
 filename: rt_podcast423
+image: https://radio-t.com/images/radio-t/rt423.jpg
+layout: post
+title: Радио-Т 423
 ---
+
 ![](https://radio-t.com/images/radio-t/rt423.jpg)
 
 * [Чем порадует 2015](http://prsm.tc/lgu6yx)

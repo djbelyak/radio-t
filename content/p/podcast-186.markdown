@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-05-09T05:59:00
+filename: rt_podcast186
 layout: post
 title: Радио-Т 186
-date: 2010-05-09T05:59:00
-comments: true
-categories: podcast
-filename: rt_podcast186
 ---
+
 ![](https://radio-t.com/images/radio-t/rt186.jpg)
 
 - Гостей много не бывает

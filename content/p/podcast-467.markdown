@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 467"
-date: 2015-10-24T17:58:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt467.jpg
+comments: true
+date: 2015-10-24T17:58:00
 filename: rt_podcast467
+image: https://radio-t.com/images/radio-t/rt467.jpg
+layout: post
+title: Радио-Т 467
 ---
+
 ![](https://radio-t.com/images/radio-t/rt467.jpg)
 
 * [Плавающий IP для DigitalOcean](https://www.digitalocean.com/company/blog/floating-ips-start-architecting-your-applications-for-high-availability/).

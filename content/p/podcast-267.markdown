@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-12-11T02:28:00
+filename: rt_podcast267
 layout: post
 title: Радио-Т 267
-date: 2011-12-11T02:28:00
-comments: true
-categories: podcast
-filename: rt_podcast267
 ---
+
 ![](https://radio-t.com/images/radio-t/rt267.jpg)
 
 - Google Currents смог, но не потянул

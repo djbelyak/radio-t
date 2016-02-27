@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 332"
-date: 2013-03-16T17:06:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt332.jpg
+comments: true
+date: 2013-03-16T17:06:00
 filename: rt_podcast332
+image: https://radio-t.com/images/radio-t/rt332.jpg
+layout: post
+title: Радио-Т 332
 ---
+
 ![](https://radio-t.com/images/radio-t/rt332.jpg)
 
 * [Поздрявляем бородатого](http://readwrite.com/2013/03/15/happy-birthday-richard-stallman)

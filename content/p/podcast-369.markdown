@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 369"
-date: 2013-12-07T16:33:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt369.jpg
+comments: true
+date: 2013-12-07T16:33:00
 filename: rt_podcast369
+image: https://radio-t.com/images/radio-t/rt369.jpg
+layout: post
+title: Радио-Т 369
 ---
+
 ![](https://radio-t.com/images/radio-t/rt369.jpg)
 
 * Выход [IntelliJ IDEA 13](http://blog.jetbrains.com/idea/2013/12/intellij-idea-13-is-released-work-miracles-in-java-and-beyond/)

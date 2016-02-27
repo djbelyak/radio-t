@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-06-15T07:24:00
+filename: rt_podcast90
 layout: post
 title: Радио-Т 90
-date: 2008-06-15T07:24:00
-comments: true
-categories: podcast
-filename: rt_podcast90
 ---
 
 - Что же нам такое показали?

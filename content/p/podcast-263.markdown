@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-11-13T02:29:00
+filename: rt_podcast263
 layout: post
 title: Радио-Т 263
-date: 2011-11-13T02:29:00
-comments: true
-categories: podcast
-filename: rt_podcast263
 ---
+
 ![](https://radio-t.com/images/radio-t/rt263.jpg)
 
 - [Fedora 16](http://www.pcworld.com/businesscenter/article/243189/six_good_reasons_to_try_fedora_16.html), слишком много шика

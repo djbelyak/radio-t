@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-10-29T10:10:00
+filename: rt_podcast8
 layout: post
 title: Радио-T 8
-date: 2006-10-29T10:10:00
-comments: true
-categories: podcast
-filename: rt_podcast8
 ---
 
 - Новинки от Apple. От MBP до мониторов и телефонов

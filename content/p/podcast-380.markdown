@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 380"
-date: 2014-02-22T16:48:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt380.jpg
+comments: true
+date: 2014-02-22T16:48:00
 filename: rt_podcast380
+image: https://radio-t.com/images/radio-t/rt380.jpg
+layout: post
+title: Радио-Т 380
 ---
+
 ![](https://radio-t.com/images/radio-t/rt380.jpg)
 
 * [Яндекс.Кит: новая прошивка для смартфонов](http://habrahabr.ru/company/yandex/blog/213103/)

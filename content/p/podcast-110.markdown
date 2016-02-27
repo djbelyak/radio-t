@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2008-11-02T09:08:00
+filename: rt_podcast110
 layout: post
 title: Радио–Т 110
-date: 2008-11-02T09:08:00
-comments: true
-categories: podcast
-filename: rt_podcast110
 ---
+
 ![](https://radio-t.com/images/radio-t/rt110.jpg)
 
 

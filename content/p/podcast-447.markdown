@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 447"
-date: 2015-06-06T18:34:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt447.jpg
+comments: true
+date: 2015-06-06T18:34:00
 filename: rt_podcast447
+image: https://radio-t.com/images/radio-t/rt447.jpg
+layout: post
+title: Радио-Т 447
 ---
+
 ![](https://radio-t.com/images/radio-t/rt447.jpg)
 
 * [5 мифов о том, как становятся программистами](http://prsm.tc/lVJGzU).

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 364"
-date: 2013-11-02T17:58:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt364.jpg
+comments: true
+date: 2013-11-02T17:58:00
 filename: rt_podcast364
+image: https://radio-t.com/images/radio-t/rt364.jpg
+layout: post
+title: Радио-Т 364
 ---
+
 ![](https://radio-t.com/images/radio-t/rt364.jpg)
 
 * [Интервью с Bjarne Stroustrup](http://electronicdesign.com/dev-tools/interview-bjarne-stroustrup-discusses-c) по поводу C++

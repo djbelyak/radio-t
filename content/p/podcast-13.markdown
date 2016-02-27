@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-12-05T04:53:00
+filename: rt_podcast13
 layout: post
 title: Радио-T 13
-date: 2006-12-05T04:53:00
-comments: true
-categories: podcast
-filename: rt_podcast13
 ---
 
 - О закрытии AllofMP3

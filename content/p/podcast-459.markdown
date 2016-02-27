@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 459"
-date: 2015-08-29T18:09:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt459.jpg
+comments: true
+date: 2015-08-29T18:09:00
 filename: rt_podcast459
+image: https://radio-t.com/images/radio-t/rt459.jpg
+layout: post
+title: Радио-Т 459
 ---
+
 ![](https://radio-t.com/images/radio-t/rt459.jpg)
 
 * [Разблокирование Android жестами не безопасно](http://www.engadget.com/2015/08/22/android-lock-pattern-research/).

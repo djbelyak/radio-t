@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-11-07T06:18:00
+filename: rt_podcast212
 layout: post
 title: Радио-Т 212
-date: 2010-11-07T06:18:00
-comments: true
-categories: podcast
-filename: rt_podcast212
 ---
+
 ![](https://radio-t.com/images/radio-t/rt212.jpg)
 
 - [Рейтинг](http://www.opennet.ru/opennews/art.shtml?num=28492) предпочтений пользователей Linux

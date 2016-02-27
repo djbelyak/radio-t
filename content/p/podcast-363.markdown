@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 363"
-date: 2013-10-26T16:54:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt363.jpg
+comments: true
+date: 2013-10-26T16:54:00
 filename: rt_podcast363
+image: https://radio-t.com/images/radio-t/rt363.jpg
+layout: post
+title: Радио-Т 363
 ---
+
 ![](https://radio-t.com/images/radio-t/rt363.jpg)
 
 * От [первого лица](http://plushev.com) o [главном событии](http://habrahabr.ru/post/198616/) недели.

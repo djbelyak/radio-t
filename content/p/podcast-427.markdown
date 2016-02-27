@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 427"
-date: 2015-01-17T16:51:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt427.jpg
+comments: true
+date: 2015-01-17T16:51:00
 filename: rt_podcast427
+image: https://radio-t.com/images/radio-t/rt427.jpg
+layout: post
+title: Радио-Т 427
 ---
+
 ![](https://radio-t.com/images/radio-t/rt427.jpg)
 
 * [Linux в 2015](http://prsm.tc/DA1ydm)

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 301"
-date: 2012-08-11T19:11:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-08-11T19:11:00
 filename: rt_podcast301
+layout: post
+title: Радио-Т 301
 ---
+
 ![](https://radio-t.com/images/radio-t/rt301.jpg)
 
 * Первый в мире сайт отметил [21-ю годовщину](http://habrahabr.ru/post/149226/)

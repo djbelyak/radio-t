@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 406"
-date: 2014-08-23T17:11:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt406.jpg
+comments: true
+date: 2014-08-23T17:11:00
 filename: rt_podcast406
+image: https://radio-t.com/images/radio-t/rt406.jpg
+layout: post
+title: Радио-Т 406
 ---
+
 ![](https://radio-t.com/images/radio-t/rt406.jpg)
 
 * [Debian 21](https://bits.debian.org/2014/08/21-birthday-debian.html)

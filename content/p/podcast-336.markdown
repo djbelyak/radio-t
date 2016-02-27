@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 336"
-date: 2013-04-13T18:04:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt336.jpg
+comments: true
+date: 2013-04-13T18:04:00
 filename: rt_podcast336
+image: https://radio-t.com/images/radio-t/rt336.jpg
+layout: post
+title: Радио-Т 336
 ---
+
 ![](https://radio-t.com/images/radio-t/rt336.jpg)
 
 * [GitHub 5 лет](http://www.slashgear.com/github-turns-five-boasts-3-5-million-users-11277490/) и 3.5М пользователей.

@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-10-24T05:24:00
+filename: rt_podcast210
 layout: post
 title: Радио-Т 210
-date: 2010-10-24T05:24:00
-comments: true
-categories: podcast
-filename: rt_podcast210
 ---
+
 ![](https://radio-t.com/images/radio-t/rt210.png)
 
 - Хорошее доменное [имя](http://mashable.com/2010/10/20/sex-com-sells/) за недорого

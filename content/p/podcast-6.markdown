@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-10-15T11:21:00
+filename: rt_podcast6
 layout: post
 title: Радио-T 6
-date: 2006-10-15T11:21:00
-comments: true
-categories: podcast
-filename: rt_podcast6
 ---
 
 - PayPal и в России и о гугловской платежной системе

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 305"
-date: 2012-09-08T17:46:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-09-08T17:46:00
 filename: rt_podcast305
+layout: post
+title: Радио-Т 305
 ---
+
 ![](https://radio-t.com/images/radio-t/rt305.jpg)
 
 * Google Chrome [исполнилось четыре года](http://habrahabr.ru/post/150869/)

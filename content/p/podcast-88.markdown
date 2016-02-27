@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-06-01T09:15:00
+filename: rt_podcast88
 layout: post
 title: Радио-Т 88
-date: 2008-06-01T09:15:00
-comments: true
-categories: podcast
-filename: rt_podcast88
 ---
 
 - OpenSource разработчики делают [выбор](http://www.osnews.com/story/19788)

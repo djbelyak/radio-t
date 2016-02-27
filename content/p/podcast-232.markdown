@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-03-27T01:53:00
+filename: rt_podcast232
 layout: post
 title: Радио-Т 232
-date: 2011-03-27T01:53:00
-comments: true
-categories: podcast
-filename: rt_podcast232
 ---
+
 ![](https://radio-t.com/images/radio-t/rt232.jpg)
 
 

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 297"
-date: 2012-07-14T18:47:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-07-14T18:47:00
 filename: rt_podcast297
+layout: post
+title: Радио-Т 297
 ---
+
 ![](https://radio-t.com/images/radio-t/rt297.jpg)
 
 * Не в тему от [Woody Guthrie](http://www.scottberkun.com/blog/2010/woody-guthries-new-years-resolutions/)

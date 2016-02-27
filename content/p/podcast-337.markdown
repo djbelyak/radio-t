@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 337"
-date: 2013-04-20T17:49:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt337.jpg
+comments: true
+date: 2013-04-20T17:49:00
 filename: rt_podcast337
+image: https://radio-t.com/images/radio-t/rt337.jpg
+layout: post
+title: Радио-Т 337
 ---
+
 ![](https://radio-t.com/images/radio-t/rt337.jpg)
 
 * [Самые желаемые технологии](http://www.mpa-2007.org/top-5-items-most-wanted-in-computer-technology-at-home/) для дома.

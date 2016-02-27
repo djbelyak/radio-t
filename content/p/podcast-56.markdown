@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-10-14T05:15:00
+filename: rt_podcast56
 layout: post
 title: Радио-Т 56
-date: 2007-10-14T05:15:00
-comments: true
-categories: podcast
-filename: rt_podcast56
 ---
 
 - Правильная читалка Sony PRS-505

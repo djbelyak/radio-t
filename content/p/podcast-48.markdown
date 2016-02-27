@@ -1,12 +1,11 @@
 ---
+categories: podcast
+comments: true
+date: 2007-08-19T06:29:00
+filename: rt_podcast48
 layout: post
 title: Радио-T 48
-date: 2007-08-19T06:29:00
-comments: true
-categories: podcast
-filename: rt_podcast48
 ---
-
 
 - Что случилось со Skype?
 - Специалисты по ИТ-безопасности критикуют Mac OS X

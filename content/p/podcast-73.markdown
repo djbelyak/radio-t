@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-02-17T08:28:00
+filename: rt_podcast73
 layout: post
 title: Радио–Т 73
-date: 2008-02-17T08:28:00
-comments: true
-categories: podcast
-filename: rt_podcast73
 ---
 
 - [Дармовые компьютеры](http://habrahabr.ru/blog/lenta/35874.html) от MS

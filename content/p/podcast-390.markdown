@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 390"
-date: 2014-05-03T17:15:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt390.jpg
+comments: true
+date: 2014-05-03T17:15:00
 filename: rt_podcast390
+image: https://radio-t.com/images/radio-t/rt390.jpg
+layout: post
+title: Радио-Т 390
 ---
+
 ![](https://radio-t.com/images/radio-t/rt390.jpg)
 
 * [BASIC стукнуло 50](http://www.engadget.com/2014/05/01/basic-programming-language-50th-birthday/)

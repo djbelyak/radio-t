@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-05-02T07:20:00
+filename: rt_podcast185
 layout: post
 title: Радио-Т 185
-date: 2010-05-02T07:20:00
-comments: true
-categories: podcast
-filename: rt_podcast185
 ---
+
 ![](https://radio-t.com/images/radio-t/rt185.jpg)
 
 - [Palm](http://www.hp.com/hpinfo/newsroom/press/2010/100428xa.html) продался, полностью

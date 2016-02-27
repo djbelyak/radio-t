@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-05-23T07:13:00
+filename: rt_podcast188
 layout: post
 title: Радио-Т 188
-date: 2010-05-23T07:13:00
-comments: true
-categories: podcast
-filename: rt_podcast188
 ---
+
 ![](https://radio-t.com/images/radio-t/rt188.png)
 
 

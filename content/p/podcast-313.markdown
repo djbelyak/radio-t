@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 313"
-date: 2012-11-03T17:08:00
-comments: true
 categories: podcast special
+comments: true
+date: 2012-11-03T17:08:00
 filename: rt_podcast313
+layout: post
+title: Радио-Т 313
 ---
+
 ![](https://radio-t.com/images/radio-t/rt313.jpg)
 
 * Почему [ZeroMQ ошибся с языком](http://www.250bpm.com/blog:4) в [2x частях](http://www.250bpm.com/blog:8)

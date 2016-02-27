@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 312"
-date: 2012-10-27T17:58:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-10-27T17:58:00
 filename: rt_podcast312
+layout: post
+title: Радио-Т 312
 ---
+
 ![](https://radio-t.com/images/radio-t/rt312.jpg)
 
 * Apple показала [много всего разного](http://www.engadget.com/2012/10/23/apple-ipad-mini-event-roundup/)

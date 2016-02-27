@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 382"
-date: 2014-03-08T17:59:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt382.jpg
+comments: true
+date: 2014-03-08T17:59:00
 filename: rt_podcast382
+image: https://radio-t.com/images/radio-t/rt382.jpg
+layout: post
+title: Радио-Т 382
 ---
+
 ![](https://radio-t.com/images/radio-t/rt382.jpg)
 
 * Опять о сисадминах

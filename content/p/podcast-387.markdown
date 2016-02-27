@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 387"
-date: 2014-04-12T17:23:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt387.jpg
+comments: true
+date: 2014-04-12T17:23:00
 filename: rt_podcast387
+image: https://radio-t.com/images/radio-t/rt387.jpg
+layout: post
+title: Радио-Т 387
 ---
+
 ![](https://radio-t.com/images/radio-t/rt387.jpg)
 
 * [Heartbleed - баг века](http://heartbleed.com/).

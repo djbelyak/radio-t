@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-11-11T09:02:00
+filename: rt_podcast60
 layout: post
 title: Радио–Т 60
-date: 2007-11-11T09:02:00
-comments: true
-categories: podcast
-filename: rt_podcast60
 ---
 
 - [Автокадабрa](http://autokadabra.ru/): не видели, но осуждаем

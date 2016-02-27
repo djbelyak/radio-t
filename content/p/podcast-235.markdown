@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-04-17T03:31:00
+filename: rt_podcast235
 layout: post
 title: Радио-Т 235
-date: 2011-04-17T03:31:00
-comments: true
-categories: podcast
-filename: rt_podcast235
 ---
+
 ![](https://radio-t.com/images/radio-t/rt235.png)
 
 

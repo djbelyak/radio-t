@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-09-26T05:11:00
+filename: rt_podcast206
 layout: post
 title: Радио-Т 206
-date: 2010-09-26T05:11:00
-comments: true
-categories: podcast
-filename: rt_podcast206
 ---
+
 ![](https://radio-t.com/images/radio-t/rt206.gif)
 
 - ДР [Фидонета](http://habrahabr.ru/blogs/fido/104709/). Ура!

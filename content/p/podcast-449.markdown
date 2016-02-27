@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 449"
-date: 2015-06-20T18:03:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt449.jpg
+comments: true
+date: 2015-06-20T18:03:00
 filename: rt_podcast449
+image: https://radio-t.com/images/radio-t/rt449.jpg
+layout: post
+title: Радио-Т 449
 ---
+
 ![](https://radio-t.com/images/radio-t/rt449.jpg)
 
 * [Google, Microsoft, Mozilla и прочие запускают WebAssembly](http://social.techcrunch.com/2015/06/17/google-microsoft-mozilla-and-others-team-up-to-launch-webassembly-a-new-binary-format-fo).

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 365"
-date: 2013-11-09T16:00:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt365.jpg
+comments: true
+date: 2013-11-09T16:00:00
 filename: rt_podcast365
+image: https://radio-t.com/images/radio-t/rt365.jpg
+layout: post
+title: Радио-Т 365
 ---
+
 ![](https://radio-t.com/images/radio-t/rt365.jpg)
 
 * Новый [iPad mini под вопросом](http://appadvice.com/appnn/2013/11/more-bad-news-for-those-hoping-to-buy-an-ipad-mini-with-retina-display).

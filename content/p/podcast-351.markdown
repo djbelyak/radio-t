@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 351"
-date: 2013-08-03T17:54:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt351.jpg
+comments: true
+date: 2013-08-03T17:54:00
 filename: rt_podcast351
+image: https://radio-t.com/images/radio-t/rt351.jpg
+layout: post
+title: Радио-Т 351
 ---
+
 ![](https://radio-t.com/images/radio-t/rt351.jpg)
 
 * [Новое в Bootstrap 3.0](http://antjanus.com/blog/web-design-tips/web-design-elements/best-new-features-in-bootstrap-3-0/)

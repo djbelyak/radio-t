@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2012-03-18T02:55:00
+filename: rt_podcast280
 layout: post
 title: Радио-Т 280
-date: 2012-03-18T02:55:00
-comments: true
-categories: podcast
-filename: rt_podcast280
 ---
+
 ![](https://radio-t.com/images/radio-t/rt280.jpg)
 
 - Раскрытие секретов [Amazon](http://www.wired.com/wiredenterprise/2012/03/amazon-ec2/)

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 413"
-date: 2014-10-11T17:19:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt413.jpg
+comments: true
+date: 2014-10-11T17:19:00
 filename: rt_podcast413
+image: https://radio-t.com/images/radio-t/rt413.jpg
+layout: post
+title: Радио-Т 413
 ---
+
 ![](https://radio-t.com/images/radio-t/rt413.jpg)
 
 * [Monit выкатил DMCA наезд](https://news.ycombinator.com/item?id=8416773)

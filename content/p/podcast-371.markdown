@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 371"
-date: 2013-12-21T16:27:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt371.jpg
+comments: true
+date: 2013-12-21T16:27:00
 filename: rt_podcast371
+image: https://radio-t.com/images/radio-t/rt371.jpg
+layout: post
+title: Радио-Т 371
 ---
+
 ![](https://radio-t.com/images/radio-t/rt371.jpg)
 
 * [10 технических провалов 2013](http://readwrite.com/2013/12/20/top-10-tech-failures-of-2013)

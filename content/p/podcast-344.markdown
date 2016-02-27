@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 344"
-date: 2013-06-08T18:32:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt344.jpg
+comments: true
+date: 2013-06-08T18:32:00
 filename: rt_podcast344
+image: https://radio-t.com/images/radio-t/rt344.jpg
+layout: post
+title: Радио-Т 344
 ---
+
 ![](https://radio-t.com/images/radio-t/rt344.jpg)
 
 * Гость из [FUEL](https://fuel.mirantis.com/)

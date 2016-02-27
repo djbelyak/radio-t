@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 403"
-date: 2014-08-02T17:04:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt403.jpg
+comments: true
+date: 2014-08-02T17:04:00
 filename: rt_podcast403
+image: https://radio-t.com/images/radio-t/rt403.jpg
+layout: post
+title: Радио-Т 403
 ---
+
 ![](https://radio-t.com/images/radio-t/rt403.jpg)
 
 * Павел Емельянов о [CRIU](http://criu.org/Main_Page).

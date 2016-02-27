@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-08-10T10:39:00
+filename: rt_podcast98
 layout: post
 title: Радио-Т 98
-date: 2008-08-10T10:39:00
-comments: true
-categories: podcast
-filename: rt_podcast98
 ---
 
 - Что LiveJournal нам готовит? Похоже немного хорошего и больше разного

@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-01-11T07:32:00
+filename: rt_podcast119
 layout: post
 title: Радио–Т 119
-date: 2009-01-11T07:32:00
-comments: true
-categories: podcast
-filename: rt_podcast119
 ---
+
 ![](https://radio-t.com/images/radio-t/rt119.jpg)
 
 

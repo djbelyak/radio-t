@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "Темы для 380"
-date: 2014-02-18T18:49:00
+categories: prep
 comments: true
-categories: prep 
+date: 2014-02-18T18:49:00
+layout: post
+title: Темы для 380
 ---
+

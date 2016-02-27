@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-03-02T11:07:00
+filename: rt_podcast75
 layout: post
 title: Радио–Т 75
-date: 2008-03-02T11:07:00
-comments: true
-categories: podcast
-filename: rt_podcast75
 ---
 
 - Каптча [против](http://pcnews.ru/news/gmail-captcha-windows-live-websense-completely-automated-public-turing-test-to-tell-computers-215421.html) человечества

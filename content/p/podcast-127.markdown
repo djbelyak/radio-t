@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-03-08T11:24:00
+filename: rt_podcast127
 layout: post
 title: Радио-Т 127
-date: 2009-03-08T11:24:00
-comments: true
-categories: podcast
-filename: rt_podcast127
 ---
+
 ![](https://radio-t.com/images/radio-t/rt127.jpg)
 
 

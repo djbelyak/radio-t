@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "Программы для слушателей Радио-Т"
-date: 2014-01-07T14:39:00
 comments: true
-sharing: false
+date: 2014-01-07T14:39:00
 footer: false
+layout: page
+sharing: false
+title: Программы для слушателей Радио-Т
 ---
 
 * [Супер-программа Радио-Т](http://apps.radio-t.com/) - чат, голосование и прямая трансляция

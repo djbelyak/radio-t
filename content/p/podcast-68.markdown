@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-01-06T08:33:00
+filename: rt_podcast68
 layout: post
 title: Радио–Т 68
-date: 2008-01-06T08:33:00
-comments: true
-categories: podcast
-filename: rt_podcast68
 ---
 
 - День рожденья джабера

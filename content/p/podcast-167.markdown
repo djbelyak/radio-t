@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-12-27T07:08:00
+filename: rt_podcast167
 layout: post
 title: Радио-Т 167
-date: 2009-12-27T07:08:00
-comments: true
-categories: podcast
-filename: rt_podcast167
 ---
+
 ![](https://radio-t.com/images/radio-t/rt167.jpg)
 
 **Итоги 2009, РТ версия**

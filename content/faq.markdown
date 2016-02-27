@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "Вопросы и ответы"
-date: 2012-06-14T03:12:00
 comments: true
-sharing: true
+date: 2012-06-14T03:12:00
 footer: false
+layout: page
+sharing: true
+title: Вопросы и ответы
 ---
 
 #### Вопрос: Меня не пускает в чат через супeр-программку радио-т. Что я делаю не так?

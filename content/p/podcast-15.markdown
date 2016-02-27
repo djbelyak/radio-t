@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-12-17T04:50:00
+filename: rt_podcast15
 layout: post
 title: Радио-T 15
-date: 2006-12-17T04:50:00
-comments: true
-categories: podcast
-filename: rt_podcast15
 ---
 
 - Ограбленная MS, похищенный MacBook и сюрпризы от Google

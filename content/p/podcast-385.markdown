@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 385"
-date: 2014-03-29T16:55:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt385.jpg
+comments: true
+date: 2014-03-29T16:55:00
 filename: rt_podcast385
+image: https://radio-t.com/images/radio-t/rt385.jpg
+layout: post
+title: Радио-Т 385
 ---
+
 ![](https://radio-t.com/images/radio-t/rt385.jpg)
 
 * [Google всех потряс](http://techcrunch.com/2014/03/25/google-launches-managed-virtual-machines-gives-developers-a-middle-ground-between-compute-and-a).

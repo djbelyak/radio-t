@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 470"
-date: 2015-11-14T16:53:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt470.jpg
+comments: true
+date: 2015-11-14T16:53:00
 filename: rt_podcast470
+image: https://radio-t.com/images/radio-t/rt470.jpg
+layout: post
+title: Радио-Т 470
 ---
+
 ![](https://radio-t.com/images/radio-t/rt470.jpg)
 
 * [6 лет Go](http://blog.golang.org/6years).

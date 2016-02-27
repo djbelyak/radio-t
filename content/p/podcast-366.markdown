@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 366"
-date: 2013-11-16T16:48:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt366.jpg
+comments: true
+date: 2013-11-16T16:48:00
 filename: rt_podcast366
+image: https://radio-t.com/images/radio-t/rt366.jpg
+layout: post
+title: Радио-Т 366
 ---
+
 ![](https://radio-t.com/images/radio-t/rt366.jpg)
 
 * [Windows 30 лет](http://gizmodo.com/bill-gates-unveiled-windows-30-years-ago-today-1461813702).

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 481"
-date: 2016-01-30T16:48:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt481.jpg
+comments: true
+date: 2016-01-30T16:48:00
 filename: rt_podcast481
+image: https://radio-t.com/images/radio-t/rt481.jpg
+layout: post
+title: Радио-Т 481
 ---
+
 ![](https://radio-t.com/images/radio-t/rt481.jpg)
 
 - [Java аплеты - все](http://mashable.com/2016/01/29/java-plug-in-death/).

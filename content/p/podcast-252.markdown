@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-08-28T01:14:00
+filename: rt_podcast252
 layout: post
 title: Радио-Т 252
-date: 2011-08-28T01:14:00
-comments: true
-categories: podcast
-filename: rt_podcast252
 ---
+
 ![](https://radio-t.com/images/radio-t/rt252.jpg)
 
 

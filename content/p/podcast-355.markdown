@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 355"
-date: 2013-08-31T18:33:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt355.jpg
+comments: true
+date: 2013-08-31T18:33:00
 filename: rt_podcast355
+image: https://radio-t.com/images/radio-t/rt355.jpg
+layout: post
+title: Радио-Т 355
 ---
+
 ![](https://radio-t.com/images/radio-t/rt355.jpg)
 
 * Неприятность на [10й юбилей Skype](http://thenextweb.com/microsoft/2013/08/29/skype-is-10-years-old-and-in-the-past-decade-its-helped-transform-the-way-that-we-com)

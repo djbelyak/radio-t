@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 339"
-date: 2013-05-04T17:48:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt339.jpg
+comments: true
+date: 2013-05-04T17:48:00
 filename: rt_podcast339
+image: https://radio-t.com/images/radio-t/rt339.jpg
+layout: post
+title: Радио-Т 339
 ---
+
 ![](https://radio-t.com/images/radio-t/rt339.jpg)
 
 * Конец [OOP уже наступил](http://blogs.msdn.com/b/alfredth/archive/2011/03/22/object-oriented-programming-is-dead.aspx).

@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2012-03-11T03:02:00
+filename: rt_podcast279
 layout: post
 title: Радио-Т 279
-date: 2012-03-11T03:02:00
-comments: true
-categories: podcast
-filename: rt_podcast279
 ---
+
 ![](https://radio-t.com/images/radio-t/rt279.jpeg)
 
 

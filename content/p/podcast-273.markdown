@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2012-01-22T02:22:00
+filename: rt_podcast273
 layout: post
 title: Радио-Т 273
-date: 2012-01-22T02:22:00
-comments: true
-categories: podcast
-filename: rt_podcast273
 ---
+
 ![](https://radio-t.com/images/radio-t/rt273.jpg)
 
 - Apple и образовательные [технологии](http://www.engadget.com/2012/01/19/apples-education-announcement-what-you-need-to-know/)

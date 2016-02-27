@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 330"
-date: 2013-03-02T16:59:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt330.jpg
+comments: true
+date: 2013-03-02T16:59:00
 filename: rt_podcast330
+image: https://radio-t.com/images/radio-t/rt330.jpg
+layout: post
+title: Радио-Т 330
 ---
+
 ![](https://radio-t.com/images/radio-t/rt330.jpg)
 
 * Правильный, но [резкий манифест](http://programming-motherfucker.com/).

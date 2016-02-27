@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-03-19T04:27:00
+filename: rt_podcast27
 layout: post
 title: Радио-T 27
-date: 2007-03-19T04:27:00
-comments: true
-categories: podcast
-filename: rt_podcast27
 ---
 
 - Гость в студии

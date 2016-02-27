@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 294"
-date: 2012-06-23T20:34:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-06-23T20:34:00
 filename: rt_podcast294
+layout: post
+title: Радио-Т 294
 ---
+
 ![](https://radio-t.com/images/radio-t/rt294.jpeg)
 
 * Взлом [каждого 10](http://www.cnews.ru/reviews/index.shtml?2012/06/19/493446) крупного сайта

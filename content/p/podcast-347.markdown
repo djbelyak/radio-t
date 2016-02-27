@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 347"
-date: 2013-07-06T19:12:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt347.jpg
+comments: true
+date: 2013-07-06T19:12:00
 filename: rt_podcast347
+image: https://radio-t.com/images/radio-t/rt347.jpg
+layout: post
+title: Радио-Т 347
 ---
+
 ![](https://radio-t.com/images/radio-t/rt347.jpg)
 
 * [Вышло ядро Linux 3.10](http://habrahabr.ru/post/185178/) с [ARM big.LITTLE](http://www.engadget.com/2013/07/01/linux-kernel-3-10-arrives/).

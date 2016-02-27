@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 415"
-date: 2014-10-25T18:07:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt415.jpg
+comments: true
+date: 2014-10-25T18:07:00
 filename: rt_podcast415
+image: https://radio-t.com/images/radio-t/rt415.jpg
+layout: post
+title: Радио-Т 415
 ---
+
 ![](https://radio-t.com/images/radio-t/rt415.jpg)
 
 * [10 лет Ubuntu](http://arstechnica.com/information-technology/2014/10/ten-years-of-ubuntu-how-linuxs-beloved-newcomer-became-its-criticized-king)

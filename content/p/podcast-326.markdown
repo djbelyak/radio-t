@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 326"
-date: 2013-02-02T17:50:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt326.jpg
+comments: true
+date: 2013-02-02T17:50:00
 filename: rt_podcast326
+image: https://radio-t.com/images/radio-t/rt326.jpg
+layout: post
+title: Радио-Т 326
 ---
+
 {% img right /images/radio-t/rt326.jpg 150 %}
 
 * Что ужасного можно [найти в исходных текстах](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code)

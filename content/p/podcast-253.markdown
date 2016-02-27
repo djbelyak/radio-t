@@ -1,12 +1,12 @@
 ---
+categories: podcast special
+comments: true
+date: 2011-09-04T01:46:00
+filename: rt_podcast253
 layout: post
 title: Радио-Т 253
-date: 2011-09-04T01:46:00
-comments: true
-categories: podcast special
-
-filename: rt_podcast253
 ---
+
 ![](https://radio-t.com/images/radio-t/rt253.jpg)
 
 

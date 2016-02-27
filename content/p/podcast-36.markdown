@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2007-05-21T22:26:00
+filename: rt_podcast36
 layout: post
 title: Радио-T 36
-date: 2007-05-21T22:26:00
-comments: true
-categories: podcast
-filename: rt_podcast36
 ---
+
 ![](https://radio-t.com/images/radio-t/rt36.jpg)
 
 

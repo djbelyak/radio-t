@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-03-11T04:28:00
+filename: rt_podcast26
 layout: post
 title: Радио-T 26
-date: 2007-03-11T04:28:00
-comments: true
-categories: podcast
-filename: rt_podcast26
 ---
 
 - Концептуальное обновление Picasa Web Albums

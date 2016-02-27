@@ -1,11 +1,12 @@
 ---
-layout: page
-title: "Все фиды"
-date: 2012-09-02T20:43:00
 comments: false
-sharing: true
+date: 2012-09-02T20:43:00
 footer: false
+layout: page
+sharing: true
+title: Все фиды
 ---
+
 Правильный способ получать подкаст - это по подписке. Для этого есть:
 
 - Прямой и основной [RSS фид подкаста](http://feeds.rucast.net/radio-t)

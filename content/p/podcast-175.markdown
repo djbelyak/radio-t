@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-02-21T10:53:00
+filename: rt_podcast175
 layout: post
 title: Радио-Т 175
-date: 2010-02-21T10:53:00
-comments: true
-categories: podcast
-filename: rt_podcast175
 ---
+
 ![](https://radio-t.com/images/radio-t/rt175.jpg)
 
 

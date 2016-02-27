@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-11-14T07:11:00
+filename: rt_podcast213
 layout: post
 title: Радио-Т 213
-date: 2010-11-14T07:11:00
-comments: true
-categories: podcast
-filename: rt_podcast213
 ---
+
 ![](https://radio-t.com/images/radio-t/rt213.png)
 
 - [Firefox](http://www.opennet.ru/opennews/art.shtml?num=28599) празднует свое шестилетие

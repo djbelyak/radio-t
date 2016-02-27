@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 393"
-date: 2014-05-24T17:04:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt393.jpg
+comments: true
+date: 2014-05-24T17:04:00
 filename: rt_podcast393
+image: https://radio-t.com/images/radio-t/rt393.jpg
+layout: post
+title: Радио-Т 393
 ---
+
 ![](https://radio-t.com/images/radio-t/rt393.jpg)
 
 * [Surface Pro 3](http://www.zdnet.com/surface-pro-3-thinner-lighter-more-flexible-7000029700/)

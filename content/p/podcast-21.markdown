@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-02-04T04:34:00
+filename: rt_podcast21
 layout: post
 title: Радио-T 21
-date: 2007-02-04T04:34:00
-comments: true
-categories: podcast
-filename: rt_podcast21
 ---
 
 - 802.11n уже тут

@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-05-12T07:16:00
+filename: rt_podcast85
 layout: post
 title: Радио–Т 85
-date: 2008-05-12T07:16:00
-comments: true
-categories: podcast
-filename: rt_podcast85
 ---
 
 - Новый [зигзаг](http://blog.marcocantu.com/blog/delphi_jumps_ship.html) Delphi

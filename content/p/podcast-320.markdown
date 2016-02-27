@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 320"
-date: 2012-12-22T16:39:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt320.jpg
+comments: true
+date: 2012-12-22T16:39:00
 filename: rt_podcast320
+image: https://radio-t.com/images/radio-t/rt320.jpg
+layout: post
+title: Радио-Т 320
 ---
+
 ![](https://radio-t.com/images/radio-t/rt320.jpg)
 
 * [Perl радует](http://www.networkworld.com/community/blog/perl-programming-language-turns-25-today) уже 25 лет

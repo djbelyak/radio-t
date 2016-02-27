@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Радио-Т 409"
-date: 2014-09-13T16:35:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt409.jpg
+comments: true
+date: 2014-09-13T16:35:00
 filename: rt_podcast409
+image: https://radio-t.com/images/radio-t/rt409.jpg
+layout: post
+title: Радио-Т 409
 ---
 
 *Внимание! В этом выпуске много ненависти/гнева/любви/обожания по поводу Apple. Не рекомендуется к прослушиванию несовершеннолетним, людям с неустойчивой психикой и беременным женщинам*

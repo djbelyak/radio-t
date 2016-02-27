@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-12-30T07:12:00
+filename: rt_podcast67
 layout: post
 title: Радио–Т 67
-date: 2007-12-30T07:12:00
-comments: true
-categories: podcast
-filename: rt_podcast67
 ---
 
 - Вред и польза пиратов

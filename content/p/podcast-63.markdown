@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-12-02T05:46:00
+filename: rt_podcast63
 layout: post
 title: Радио–Т 63
-date: 2007-12-02T05:46:00
-comments: true
-categories: podcast
-filename: rt_podcast63
 ---
 
 - спамеры сдаются, а LG взрываются

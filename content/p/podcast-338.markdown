@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 338"
-date: 2013-04-27T18:20:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt338.jpg
+comments: true
+date: 2013-04-27T18:20:00
 filename: rt_podcast338
+image: https://radio-t.com/images/radio-t/rt338.jpg
+layout: post
+title: Радио-Т 338
 ---
+
 ![](https://radio-t.com/images/radio-t/rt338.jpg)
 
 * [BitTorrent Sync](http://torrentfreak.com/bittorrents-secure-dropbox-alternative-goes-public-130423/) – наш путь, но [есть проблемы](https://plus.google.com/104578309919492528255/posts/A2jt7x3zffL).

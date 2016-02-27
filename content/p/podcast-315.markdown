@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 315"
-date: 2012-11-17T16:07:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-11-17T16:07:00
 filename: rt_podcast315
+layout: post
+title: Радио-Т 315
 ---
+
 ![](https://radio-t.com/images/radio-t/rt315.jpg)
 
 * ["Луркоморье" внесли в реестр запрещенных сайтов](http://lenta.ru/news/2012/11/12/lurk/) - от первого лица

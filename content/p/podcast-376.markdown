@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 376"
-date: 2014-01-25T16:09:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt376.jpg
+comments: true
+date: 2014-01-25T16:09:00
 filename: rt_podcast376
+image: https://radio-t.com/images/radio-t/rt376.jpg
+layout: post
+title: Радио-Т 376
 ---
+
 ![](https://radio-t.com/images/radio-t/rt376.jpg)
 
 * 30 лет [Macintosh](http://blogs.computerworld.com/macintosh/23434/apples-macintosh-30-years-doomed).

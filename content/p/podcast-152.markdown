@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-09-06T12:14:00
+filename: rt_podcast152
 layout: post
 title: Радио-Т 152
-date: 2009-09-06T12:14:00
-comments: true
-categories: podcast
-filename: rt_podcast152
 ---
+
 ![](https://radio-t.com/images/radio-t/rt152.png)
 
 - [Итоги](http://habrahabr.ru/blogs/google_chrome/68665/) первого года Хрома

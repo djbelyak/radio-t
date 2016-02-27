@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 322"
-date: 2013-01-05T17:53:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt322.jpg
+comments: true
+date: 2013-01-05T17:53:00
 filename: rt_podcast322
+image: https://radio-t.com/images/radio-t/rt322.jpg
+layout: post
+title: Радио-Т 322
 ---
+
 ![](https://radio-t.com/images/radio-t/rt322.jpg)
 
 * [Заметные события](http://www.javaworld.com/community/node/8610) в разработке программ за 2012

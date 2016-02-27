@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-04-16T20:43:00
+filename: rt_podcast31
 layout: post
 title: Радио-T 31
-date: 2007-04-16T20:43:00
-comments: true
-categories: podcast
-filename: rt_podcast31
 ---
 
 - Выход CentOS-5 и задержки Ubuntu и Леопарда

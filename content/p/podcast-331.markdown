@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 331"
-date: 2013-03-09T16:50:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt331.jpg
+comments: true
+date: 2013-03-09T16:50:00
 filename: rt_podcast331
+image: https://radio-t.com/images/radio-t/rt331.jpg
+layout: post
+title: Радио-Т 331
 ---
+
 ![](https://radio-t.com/images/radio-t/rt331.jpg)
 
 * [Facebook обновился](http://www.bbc.co.uk/news/technology-21698765) не на шутку.

@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-04-10T01:53:00
+filename: rt_podcast234
 layout: post
 title: Радио-Т 234
-date: 2011-04-10T01:53:00
-comments: true
-categories: podcast
-filename: rt_podcast234
 ---
+
 ![](https://radio-t.com/images/radio-t/rt234.png)
 
 

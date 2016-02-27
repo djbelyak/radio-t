@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-01-08T04:45:00
+filename: rt_podcast17
 layout: post
 title: Радио-T 17
-date: 2007-01-08T04:45:00
-comments: true
-categories: podcast
-filename: rt_podcast17
 ---
 
 - Новогодние проишествия Gmail

@@ -1,12 +1,12 @@
 ---
+categories: podcast special
+comments: true
+date: 2012-03-04T02:33:00
+filename: rt_podcast278
 layout: post
 title: Радио-Т 278
-date: 2012-03-04T02:33:00
-comments: true
-categories: podcast special
-
-filename: rt_podcast278
 ---
+
 ![](https://radio-t.com/images/radio-t/rt278.png)
 
 

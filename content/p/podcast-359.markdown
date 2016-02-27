@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 359"
-date: 2013-09-28T17:30:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt359.jpg
+comments: true
+date: 2013-09-28T17:30:00
 filename: rt_podcast359
+image: https://radio-t.com/images/radio-t/rt359.jpg
+layout: post
+title: Радио-Т 359
 ---
+
 ![](https://radio-t.com/images/radio-t/rt359.jpg)
 
 * [30 лет проекту GNU](http://habrahabr.ru/post/195478/)

@@ -1,4 +1,5 @@
 ---
-title: "Архивы"
-type: "archives"
+title: Архивы
+type: archives
 ---
+

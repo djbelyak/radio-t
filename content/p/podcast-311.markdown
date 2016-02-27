@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 311"
-date: 2012-10-20T18:22:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-10-20T18:22:00
 filename: rt_podcast311
+layout: post
+title: Радио-Т 311
 ---
+
 ![](https://radio-t.com/images/radio-t/rt311.jpg)
 
 * Что [случилось с Google?](http://tech.fortune.cnn.com/2012/10/19/google-8/)

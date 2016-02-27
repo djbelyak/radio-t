@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 340"
-date: 2013-05-11T18:18:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt340.jpg
+comments: true
+date: 2013-05-11T18:18:00
 filename: rt_podcast340
+image: https://radio-t.com/images/radio-t/rt340.jpg
+layout: post
+title: Радио-Т 340
 ---
+
 ![](https://radio-t.com/images/radio-t/rt340.jpg)
 
 * [Debian 7.0 Wheezy](http://bits.debian.org/2013/05/wheezy-released.html) вышла в свет.

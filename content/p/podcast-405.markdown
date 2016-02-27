@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 405"
-date: 2014-08-16T17:11:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt405.jpg
+comments: true
+date: 2014-08-16T17:11:00
 filename: rt_podcast405
+image: https://radio-t.com/images/radio-t/rt405.jpg
+layout: post
+title: Радио-Т 405
 ---
+
 ![](https://radio-t.com/images/radio-t/rt405.jpg)
 
 * [BGP достиг рубежа](http://www.opennet.ru/opennews/art.shtml?num=40384).

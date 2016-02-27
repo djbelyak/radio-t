@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-02-18T04:33:00
+filename: rt_podcast23
 layout: post
 title: Радио-T 23
-date: 2007-02-18T04:33:00
-comments: true
-categories: podcast
-filename: rt_podcast23
 ---
 
 - Yahoo добавила месенджер а Google собирается ввести оплату

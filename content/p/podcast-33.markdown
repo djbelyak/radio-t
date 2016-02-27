@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2007-04-30T03:18:00
+filename: rt_podcast33
 layout: post
 title: Радио-T 33
-date: 2007-04-30T03:18:00
-comments: true
-categories: podcast
-filename: rt_podcast33
 ---
+
 ![](https://radio-t.com/images/radio-t/rt33.jpg)
 
 - Чудовищная программа от Akamai

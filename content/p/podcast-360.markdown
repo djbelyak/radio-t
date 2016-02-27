@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 360"
-date: 2013-10-05T16:46:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt360.jpg
+comments: true
+date: 2013-10-05T16:46:00
 filename: rt_podcast360
+image: https://radio-t.com/images/radio-t/rt360.jpg
+layout: post
+title: Радио-Т 360
 ---
+
 ![](https://radio-t.com/images/radio-t/rt360.jpg)
 
 * [Fetish-Oriented Programming](http://typicalprogrammer.com/?p=237).

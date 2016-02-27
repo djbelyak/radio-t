@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 345"
-date: 2013-06-22T17:24:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt345.jpg
+comments: true
+date: 2013-06-22T17:24:00
 filename: rt_podcast345
+image: https://radio-t.com/images/radio-t/rt345.jpg
+layout: post
+title: Радио-Т 345
 ---
+
 ![](https://radio-t.com/images/radio-t/rt345.jpg)
 
 * [Apple WWDC 2013](http://thenextweb.com/apple/2013/06/10/everything-announced-at-apples-wwdc-2013-keynote-in-one-handy-list/)

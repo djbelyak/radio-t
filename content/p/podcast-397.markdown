@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 397"
-date: 2014-06-21T16:51:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt397.jpg
+comments: true
+date: 2014-06-21T16:51:00
 filename: rt_podcast397
+image: https://radio-t.com/images/radio-t/rt397.jpg
+layout: post
+title: Радио-Т 397
 ---
+
 ![](https://radio-t.com/images/radio-t/rt397.jpg)
 
 * [Что такое Docker?](http://prsm.tc/nfOZLH)

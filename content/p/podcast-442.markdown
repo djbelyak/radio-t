@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 442"
-date: 2015-05-02T18:37:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt442.jpg
+comments: true
+date: 2015-05-02T18:37:00
 filename: rt_podcast442
+image: https://radio-t.com/images/radio-t/rt442.jpg
+layout: post
+title: Радио-Т 442
 ---
+
 ![](https://radio-t.com/images/radio-t/rt442.jpg)
 
 * [Rust](http://www.rust-lang.org) – зачем, почему и для кого? Гость в студии.

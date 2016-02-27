@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 411"
-date: 2014-09-27T17:20:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt411.jpg
+comments: true
+date: 2014-09-27T17:20:00
 filename: rt_podcast411
+image: https://radio-t.com/images/radio-t/rt411.jpg
+layout: post
+title: Радио-Т 411
 ---
+
 ![](https://radio-t.com/images/radio-t/rt411.jpg)
 
 * [Ужас Shellshock Bash](http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html)

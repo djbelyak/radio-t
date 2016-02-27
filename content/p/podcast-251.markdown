@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-08-21T02:35:00
+filename: rt_podcast251
 layout: post
 title: Радио-Т 251
-date: 2011-08-21T02:35:00
-comments: true
-categories: podcast
-filename: rt_podcast251
 ---
+
 ![](https://radio-t.com/images/radio-t/rt251.gif)
 
 - Яндекс [упал](http://www.thg.ru/technews/20110819_223200.html). И неплохо упал

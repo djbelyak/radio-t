@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 448"
-date: 2015-06-13T18:05:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt448.jpg
+comments: true
+date: 2015-06-13T18:05:00
 filename: rt_podcast448
+image: https://radio-t.com/images/radio-t/rt448.jpg
+layout: post
+title: Радио-Т 448
 ---
+
 ![](https://radio-t.com/images/radio-t/rt448.jpg)
 
 * [Борьба за продуктивность](http://prsm.tc/qHL5Na).

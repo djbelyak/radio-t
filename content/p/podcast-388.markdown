@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 388"
-date: 2014-04-19T19:04:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt388.jpg
+comments: true
+date: 2014-04-19T19:04:00
 filename: rt_podcast388
+image: https://radio-t.com/images/radio-t/rt388.jpg
+layout: post
+title: Радио-Т 388
 ---
+
 ![](https://radio-t.com/images/radio-t/rt388.jpg)
 
 * [TrustyTahr уже тут](https://wiki.ubuntu.com/TrustyTahr/ReleaseNotes)

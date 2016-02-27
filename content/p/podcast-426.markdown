@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 426"
-date: 2015-01-10T16:35:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt426.jpg
+comments: true
+date: 2015-01-10T16:35:00
 filename: rt_podcast426
+image: https://radio-t.com/images/radio-t/rt426.jpg
+layout: post
+title: Радио-Т 426
 ---
+
 ![](https://radio-t.com/images/radio-t/rt426.jpg)
 
 * [Что было на CES 2015](http://prsm.tc/HRZJQo)

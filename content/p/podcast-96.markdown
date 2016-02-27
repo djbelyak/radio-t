@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-07-27T08:31:00
+filename: rt_podcast96
 layout: post
 title: Радио-Т 96
-date: 2008-07-27T08:31:00
-comments: true
-categories: podcast
-filename: rt_podcast96
 ---
 
 - Главный сисадмин в студии

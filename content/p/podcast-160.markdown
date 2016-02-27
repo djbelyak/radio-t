@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-11-08T04:47:00
+filename: rt_podcast160
 layout: post
 title: Радио-Т 160
-date: 2009-11-08T04:47:00
-comments: true
-categories: podcast
-filename: rt_podcast160
 ---
+
 ![](https://radio-t.com/images/radio-t/rt160.jpg)
 
 

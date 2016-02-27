@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 348"
-date: 2013-07-13T17:56:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt348.jpg
+comments: true
+date: 2013-07-13T17:56:00
 filename: rt_podcast348
+image: https://radio-t.com/images/radio-t/rt348.jpg
+layout: post
+title: Радио-Т 348
 ---
+
 ![](https://radio-t.com/images/radio-t/rt348.jpg)
 
 * BitTorrent [исполнилось 12 лет / Хабрахабр](http://habrahabr.ru/post/185812/).

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 335"
-date: 2013-04-06T17:53:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt335.jpg
+comments: true
+date: 2013-04-06T17:53:00
 filename: rt_podcast335
+image: https://radio-t.com/images/radio-t/rt335.jpg
+layout: post
+title: Радио-Т 335
 ---
+
 ![](https://radio-t.com/images/radio-t/rt335.jpg)
 
 * Google на день веб-мастера [c неприятным сюрпризом](http://habrahabr.ru/post/175377/).

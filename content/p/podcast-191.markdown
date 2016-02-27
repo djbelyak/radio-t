@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-06-13T07:37:00
+filename: rt_podcast191
 layout: post
 title: Радио-Т 191
-date: 2010-06-13T07:37:00
-comments: true
-categories: podcast
-filename: rt_podcast191
 ---
+
 ![](https://radio-t.com/images/radio-t/rt191.jpg)
 
 - Нам показали [ iPhone ](http://habrahabr.ru/blogs/apple/95711/)4

@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-12-26T04:46:00
+filename: rt_podcast16
 layout: post
 title: Радио-T 16
-date: 2006-12-26T04:46:00
-comments: true
-categories: podcast
-filename: rt_podcast16
 ---
 
 Последний (в этом году), предпразничный и оооочень длинный выпуск

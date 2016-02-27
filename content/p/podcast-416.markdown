@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 416"
-date: 2014-11-01T18:43:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt416.jpg
+comments: true
+date: 2014-11-01T18:43:00
 filename: rt_podcast416
+image: https://radio-t.com/images/radio-t/rt416.jpg
+layout: post
+title: Радио-Т 416
 ---
+
 ![](https://radio-t.com/images/radio-t/rt416.jpg)
 
 * [К 20й годовщине Design Patterns](http://www.informit.com/articles/article.aspx?p=2249437)

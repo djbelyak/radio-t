@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-11-21T05:53:00
+filename: rt_podcast214
 layout: post
 title: Радио-Т 214
-date: 2010-11-21T05:53:00
-comments: true
-categories: podcast
-filename: rt_podcast214
 ---
+
 ![](https://radio-t.com/images/radio-t/rt214.jpg)
 
 - Революция сообщений [Facebook](http://blog.facebook.com/blog.php?post=452288242130). Пар в свисток?

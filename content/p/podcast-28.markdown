@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-03-26T05:26:00
+filename: rt_podcast28
 layout: post
 title: Радио-T 28
-date: 2007-03-26T05:26:00
-comments: true
-categories: podcast
-filename: rt_podcast28
 ---
 
 - SCO: все выродилось в 326 строк исходного кода

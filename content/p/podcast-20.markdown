@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-01-28T04:36:00
+filename: rt_podcast20
 layout: post
 title: Радио-T 20
-date: 2007-01-28T04:36:00
-comments: true
-categories: podcast
-filename: rt_podcast20
 ---
 
 - Blue-ray/HD против порно-индустрии

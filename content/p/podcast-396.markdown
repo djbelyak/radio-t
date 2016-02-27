@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 396"
-date: 2014-06-14T23:59:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt396.jpg
+comments: true
+date: 2014-06-14T23:59:00
 filename: rt_podcast396
+image: https://radio-t.com/images/radio-t/rt396.jpg
+layout: post
+title: Радио-Т 396
 ---
+
 ![](https://radio-t.com/images/radio-t/rt396.jpg)
 
 - [Тетрису — 30](http://habrahabr.ru/post/225429/)

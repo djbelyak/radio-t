@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-04-13T07:13:00
+filename: rt_podcast81
 layout: post
 title: Радио–Т 81
-date: 2008-04-13T07:13:00
-comments: true
-categories: podcast
-filename: rt_podcast81
 ---
 
 - Пиратские [радости](http://habrahabr.ru/blog/p2p/39715.html) демонистов

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 446"
-date: 2015-05-30T18:33:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt446.jpg
+comments: true
+date: 2015-05-30T18:33:00
 filename: rt_podcast446
+image: https://radio-t.com/images/radio-t/rt446.jpg
+layout: post
+title: Радио-Т 446
 ---
+
 ![](https://radio-t.com/images/radio-t/rt446.jpg)
 
 * [Что было на Google I/O 2015](http://thenextweb.com/google/2015/05/28/everything-google-announced-at-google-io-2015-in-one-handy-list/).

@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-01-13T06:52:00
+filename: rt_podcast69
 layout: post
 title: Радио–Т 69
-date: 2008-01-13T06:52:00
-comments: true
-categories: podcast
-filename: rt_podcast69
 ---
 
 - Что [носится в воздухе](http://habrahabr.ru/blog/apple/33774.html) в преддверии следующей недели

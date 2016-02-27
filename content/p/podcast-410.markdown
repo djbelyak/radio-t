@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 410"
-date: 2014-09-20T16:51:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt410.jpg
+comments: true
+date: 2014-09-20T16:51:00
 filename: rt_podcast410
+image: https://radio-t.com/images/radio-t/rt410.jpg
+layout: post
+title: Радио-Т 410
 ---
+
 ![](https://radio-t.com/images/radio-t/rt410.jpg)
 
 * [День свободы программного обеспечения](http://habrahabr.ru/company/mailru/blog/237025/)

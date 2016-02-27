@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-10-08T13:32:00
+filename: rt_podcast5
 layout: post
 title: Радио-T 5
-date: 2006-10-08T13:32:00
-comments: true
-categories: podcast
-filename: rt_podcast5
 ---
 
 - Опять батареи и у кого больше :)

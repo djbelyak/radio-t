@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2008-09-28T06:29:00
+filename: rt_podcast105
 layout: post
 title: Радио-Т 105
-date: 2008-09-28T06:29:00
-comments: true
-categories: podcast
-filename: rt_podcast105
 ---
+
 ![](https://radio-t.com/images/radio-t/rt105.png)
 
 

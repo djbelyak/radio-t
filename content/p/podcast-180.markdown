@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-03-28T07:53:00
+filename: rt_podcast180
 layout: post
 title: Радио-Т 180
-date: 2010-03-28T07:53:00
-comments: true
-categories: podcast
-filename: rt_podcast180
 ---
+
 ![](https://radio-t.com/images/radio-t/rt180.png)
 
 - [Google](http://internet.cnews.ru/news/top/index.shtml?2010/03/23/383772) ушел из Китая по туманным причинам

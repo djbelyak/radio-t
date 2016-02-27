@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 323"
-date: 2013-01-12T16:24:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt323.jpg
+comments: true
+date: 2013-01-12T16:24:00
 filename: rt_podcast323
+image: https://radio-t.com/images/radio-t/rt323.jpg
+layout: post
+title: Радио-Т 323
 ---
+
 ![](https://radio-t.com/images/radio-t/rt323.jpg)
 
 * [Apple Safari](http://www.tuaw.com/2013/01/07/apple-safari-is-10-years-old-today/) с намии уже 10 лет

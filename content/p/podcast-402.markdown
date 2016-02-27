@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 402"
-date: 2014-07-26T16:26:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt402.jpg
+comments: true
+date: 2014-07-26T16:26:00
 filename: rt_podcast402
+image: https://radio-t.com/images/radio-t/rt402.jpg
+layout: post
+title: Радио-Т 402
 ---
+
 ![](https://radio-t.com/images/radio-t/rt402.jpg)
 
 * [С днем СисАдмина!](http://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day)

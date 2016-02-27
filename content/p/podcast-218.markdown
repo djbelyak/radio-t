@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-12-19T06:18:00
+filename: rt_podcast218
 layout: post
 title: Радио-Т 218
-date: 2010-12-19T06:18:00
-comments: true
-categories: podcast
-filename: rt_podcast218
 ---
+
 ![](https://radio-t.com/images/radio-t/rt218.jpg)
 
 - [Dropbox 1.0](http://www.engadget.com/2010/12/17/dropbox-celebrates-version-1-0-throws-selective-sync-into-the-m/), молодцы

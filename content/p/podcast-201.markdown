@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-08-22T07:49:00
+filename: rt_podcast201
 layout: post
 title: Радио-Т 201
-date: 2010-08-22T07:49:00
-comments: true
-categories: podcast
-filename: rt_podcast201
 ---
+
 ![](https://radio-t.com/images/radio-t/rt201.png)
 
 - [Debian](http://digitizor.com/2010/08/16/happy-17th-birthday-debian-and-some-interesting-history/) можно наливать

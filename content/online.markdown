@@ -1,11 +1,12 @@
 ---
-layout: page
-title: "Слушать Online вещание"
-date: 2012-06-13T22:53:00
 comments: false
-sharing: true
+date: 2012-06-13T22:53:00
 footer: false
+layout: page
+sharing: true
+title: Слушать Online вещание
 ---
+
 ![](/images/listen.jpg)
 Запись подкаста производится по субботам, в 23:00мск. В это время, вы можете слушать нас в прямом эфире по ссылке: [http://stream.radio-t.com](http://stream.radio-t.com)
 

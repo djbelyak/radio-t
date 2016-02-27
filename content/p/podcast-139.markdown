@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-06-07T10:10:00
+filename: rt_podcast139
 layout: post
 title: Радио-Т 139
-date: 2009-06-07T10:10:00
-comments: true
-categories: podcast
-filename: rt_podcast139
 ---
+
 ![](https://radio-t.com/images/radio-t/rt139.png)
 
 

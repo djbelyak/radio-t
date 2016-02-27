@@ -1,11 +1,12 @@
 ---
+categories: podcast special
+comments: true
+date: 2012-06-03T02:16:00
+filename: rt_podcast291
 layout: post
 title: Радио-Т 291
-date: 2012-06-03T02:16:00
-comments: true
-categories: podcast special
-filename: rt_podcast291
 ---
+
 ![](https://radio-t.com/images/radio-t/rt291.png)
 
 - [Blockly](http://code.google.com/p/google-blockly/) для младших школьников

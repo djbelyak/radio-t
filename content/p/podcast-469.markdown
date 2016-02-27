@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 469"
-date: 2015-11-07T16:59:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt469.jpg
+comments: true
+date: 2015-11-07T16:59:00
 filename: rt_podcast469
+image: https://radio-t.com/images/radio-t/rt469.jpg
+layout: post
+title: Радио-Т 469
 ---
+
 ![](https://radio-t.com/images/radio-t/rt469.jpg)
 
 * [30 лет С++](http://habrahabr.ru/post/270083/)

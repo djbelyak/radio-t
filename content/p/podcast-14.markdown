@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-12-10T04:51:00
+filename: rt_podcast14
 layout: post
 title: Радио-T 14
-date: 2006-12-10T04:51:00
-comments: true
-categories: podcast
-filename: rt_podcast14
 ---
 
 - Конкурс по поиску и некоторые около-поисковые заметки

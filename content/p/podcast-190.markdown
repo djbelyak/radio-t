@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-06-06T06:18:00
+filename: rt_podcast190
 layout: post
 title: Радио-Т 190
-date: 2010-06-06T06:18:00
-comments: true
-categories: podcast
-filename: rt_podcast190
 ---
+
 ![](https://radio-t.com/images/radio-t/rt190.png)
 
 - В [гугле](http://lenta.ru/news/2010/06/01/refuse/) не будет виндузов. MS против

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 472"
-date: 2015-11-28T17:33:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt472.jpg
+comments: true
+date: 2015-11-28T17:33:00
 filename: rt_podcast472
+image: https://radio-t.com/images/radio-t/rt472.jpg
+layout: post
+title: Радио-Т 472
 ---
+
 ![](https://radio-t.com/images/radio-t/rt472.jpg)
 
 * [Yahoo наказало 9%](http://mashable.com/2015/11/21/yahoo-email-ad-blockers/)

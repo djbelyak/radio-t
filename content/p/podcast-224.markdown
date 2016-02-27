@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-01-30T08:29:00
+filename: rt_podcast224
 layout: post
 title: Радио-Т 224
-date: 2011-01-30T08:29:00
-comments: true
-categories: podcast
-filename: rt_podcast224
 ---
+
 ![](https://radio-t.com/images/radio-t/rt224.gif)
 
 - 15000 день unix [эпохи](http://habrahabr.ru/blogs/nix/112532/). Надо праздновать

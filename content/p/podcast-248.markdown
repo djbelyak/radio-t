@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-07-24T01:54:00
+filename: rt_podcast248
 layout: post
 title: Радио-Т 248
-date: 2011-07-24T01:54:00
-comments: true
-categories: podcast
-filename: rt_podcast248
 ---
+
 ![](https://radio-t.com/images/radio-t/rt248.jpg)
 
 - [Nginx](http://nginx.org/) будет красивым и богатым

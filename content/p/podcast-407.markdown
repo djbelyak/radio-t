@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 407"
-date: 2014-08-30T17:34:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt407.jpg
+comments: true
+date: 2014-08-30T17:34:00
 filename: rt_podcast407
+image: https://radio-t.com/images/radio-t/rt407.jpg
+layout: post
+title: Радио-Т 407
 ---
+
 ![](https://radio-t.com/images/radio-t/rt407.jpg)
 
 * [Dropbox Pro](http://prsm.tc/jm5KaB) теперь дешево.

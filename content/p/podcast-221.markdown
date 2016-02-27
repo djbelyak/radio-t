@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-01-09T05:35:00
+filename: rt_podcast221
 layout: post
 title: Радио-Т 221
-date: 2011-01-09T05:35:00
-comments: true
-categories: podcast
-filename: rt_podcast221
 ---
+
 ![](https://radio-t.com/images/radio-t/rt221.jpg)
 
 - По ту сторону IT, или гостья против гнусных гиков

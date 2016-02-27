@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-08-27T11:49:00
+filename: rt_podcast0
 layout: post
 title: Радио-T 0
-date: 2006-08-27T11:49:00
-comments: true
-categories: podcast
-filename: rt_podcast0
 ---
 
 - Счет Биллу, или поговорим про Microsoft

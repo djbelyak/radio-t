@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-12-20T07:37:00
+filename: rt_podcast166
 layout: post
 title: Радио-Т 166
-date: 2009-12-20T07:37:00
-comments: true
-categories: podcast
-filename: rt_podcast166
 ---
+
 ![](https://radio-t.com/images/radio-t/rt166.jpg)
 
 - [Хром ](http://internet.cnews.ru/news/line/index.shtml?2009/12/15/373461)теперь #3

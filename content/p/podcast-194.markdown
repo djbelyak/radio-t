@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-07-04T06:32:00
+filename: rt_podcast194
 layout: post
 title: Радио-Т 194
-date: 2010-07-04T06:32:00
-comments: true
-categories: podcast
-filename: rt_podcast194
 ---
+
 ![](https://radio-t.com/images/radio-t/rt194.png)
 
 - [Проблема](http://www.readwriteweb.com/archives/apple_admits_to_iphone_4_antenna_problems_sort_of.php) вроде есть, а на самом деле ее нет

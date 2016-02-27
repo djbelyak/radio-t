@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-05-30T09:12:00
+filename: rt_podcast189
 layout: post
 title: Радио-Т 189
-date: 2010-05-30T09:12:00
-comments: true
-categories: podcast
-filename: rt_podcast189
 ---
+
 ![](https://radio-t.com/images/radio-t/rt189.jpg)
 
 - Юбилеи [Java](http://habrahabr.ru/blogs/java/94716/), [Хабра](http://habrahabr.ru/blogs/social_networks/94537/) и [пакмана](http://habrahabr.ru/blogs/google/94639/)

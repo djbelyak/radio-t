@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 324"
-date: 2013-01-19T16:44:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt324.jpg
+comments: true
+date: 2013-01-19T16:44:00
 filename: rt_podcast324
+image: https://radio-t.com/images/radio-t/rt324.jpg
+layout: post
+title: Радио-Т 324
 ---
+
 ![](https://radio-t.com/images/radio-t/rt324.jpg)
 
 * [Windows 8](http://www.inc.com/john-brandon/windows-8-epic-fail-of-the-decade.html) это плохо?

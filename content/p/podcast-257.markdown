@@ -1,12 +1,12 @@
 ---
+categories: podcast special
+comments: true
+date: 2011-10-02T03:40:00
+filename: rt_podcast257
 layout: post
 title: Радио-Т 257
-date: 2011-10-02T03:40:00
-comments: true
-categories: podcast special
-
-filename: rt_podcast257
 ---
+
 ![](https://radio-t.com/images/radio-t/rt257.png)
 
 

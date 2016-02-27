@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 465"
-date: 2015-10-10T17:16:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt465.jpg
+comments: true
+date: 2015-10-10T17:16:00
 filename: rt_podcast465
+image: https://radio-t.com/images/radio-t/rt465.jpg
+layout: post
+title: Радио-Т 465
 ---
+
 ![](https://radio-t.com/images/radio-t/rt465.jpg)
 
 * [Неделя новинок от AWS](https://aws.amazon.com/about-aws/whats-new/2015/).

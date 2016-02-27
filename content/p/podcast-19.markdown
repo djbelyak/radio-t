@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-01-21T04:38:00
+filename: rt_podcast19
 layout: post
 title: Радио-T 19
-date: 2007-01-21T04:38:00
-comments: true
-categories: podcast
-filename: rt_podcast19
 ---
 
 - Детские темы, MySpace и акселерация

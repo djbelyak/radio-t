@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 342"
-date: 2013-05-25T18:43:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt342.jpg
+comments: true
+date: 2013-05-25T18:43:00
 filename: rt_podcast342
+image: https://radio-t.com/images/radio-t/rt342.jpg
+layout: post
+title: Радио-Т 342
 ---
+
 ![](https://radio-t.com/images/radio-t/rt342.jpg)
 
 * Их обидели [по ошибке](http://www.guardian.co.uk/world/2013/may/24/russian-social-network-site-vkontakte-banned).

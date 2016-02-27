@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 341"
-date: 2013-05-18T18:19:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt341.jpg
+comments: true
+date: 2013-05-18T18:19:00
 filename: rt_podcast341
+image: https://radio-t.com/images/radio-t/rt341.jpg
+layout: post
+title: Радио-Т 341
 ---
+
 ![](https://radio-t.com/images/radio-t/rt341.jpg)
 
 * Прощай [Lotus 1-2-3](http://www.zdnet.com/goodbye-lotus-1-2-3-7000015385/).

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 457"
-date: 2015-08-15T18:40:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt457.jpg
+comments: true
+date: 2015-08-15T18:40:00
 filename: rt_podcast457
+image: https://radio-t.com/images/radio-t/rt457.jpg
+layout: post
+title: Радио-Т 457
 ---
+
 ![](https://radio-t.com/images/radio-t/rt457.jpg)
 
 * [К 2060 программисты останутся без работы](https://medium.com/@dtauerbach/software-engineers-will-be-obsolete-by-2060-2a214fdf9737).

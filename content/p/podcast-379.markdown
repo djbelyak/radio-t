@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 379"
-date: 2014-02-15T16:13:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt379.jpg
+comments: true
+date: 2014-02-15T16:13:00
 filename: rt_podcast379
+image: https://radio-t.com/images/radio-t/rt379.jpg
+layout: post
+title: Радио-Т 379
 ---
+
 ![](https://radio-t.com/images/radio-t/rt379.jpg)
 
 * Взлет и падение [Flappy Bird](http://www.wired.co.uk/news/archive/2014-02/13/flappy-bird)

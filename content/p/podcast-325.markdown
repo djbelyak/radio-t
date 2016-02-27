@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 325"
-date: 2013-01-26T17:20:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt325.jpg
+comments: true
+date: 2013-01-26T17:20:00
 filename: rt_podcast325
+image: https://radio-t.com/images/radio-t/rt325.jpg
+layout: post
+title: Радио-Т 325
 ---
+
 ![](https://radio-t.com/images/radio-t/rt325.jpg)
 
 * [BitTorrent показал Sync](http://thenextweb.com/2013/01/25/bittorrent-launches-sync-in-pre-alpha-a-new-app-to-compete-with-dropbox-and-icloud/) убийцу DropBox

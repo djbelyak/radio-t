@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 399"
-date: 2014-07-05T17:17:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt399.jpg
+comments: true
+date: 2014-07-05T17:17:00
 filename: rt_podcast399
+image: https://radio-t.com/images/radio-t/rt399.jpg
+layout: post
+title: Радио-Т 399
 ---
+
 ![](https://radio-t.com/images/radio-t/rt399.jpg)
 
 * [Увидел свет Eclipse Luna](http://www.opennet.ru/opennews/art.shtml?num=40081).

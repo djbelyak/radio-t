@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 299"
-date: 2012-07-28T17:18:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-07-28T17:18:00
 filename: rt_podcast299
+layout: post
+title: Радио-Т 299
 ---
+
 ![](https://radio-t.com/images/radio-t/rt299.jpg)
 
 * Поздравляем с днем [системного администратора](http://habrahabr.ru/company/ideco/blog/148555/)

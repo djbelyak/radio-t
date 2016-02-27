@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-12-16T08:38:00
+filename: rt_podcast65
 layout: post
 title: Радио–Т 65
-date: 2007-12-16T08:38:00
-comments: true
-categories: podcast
-filename: rt_podcast65
 ---
 
 Выпуск по темам наших слушателей, с раздачей подарков и прочими радостями.

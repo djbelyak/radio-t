@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-08-29T06:30:00
+filename: rt_podcast202
 layout: post
 title: Радио-Т 202
-date: 2010-08-29T06:30:00
-comments: true
-categories: podcast
-filename: rt_podcast202
 ---
+
 ![](https://radio-t.com/images/radio-t/rt202.jpg)
 
 - 4 года подкасту

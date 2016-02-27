@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 422"
-date: 2014-12-13T17:24:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt422.jpg
+comments: true
+date: 2014-12-13T17:24:00
 filename: rt_podcast422
+image: https://radio-t.com/images/radio-t/rt422.jpg
+layout: post
+title: Радио-Т 422
 ---
+
 ![](https://radio-t.com/images/radio-t/rt422.jpg)
 
 * [Google закрывает центр разработки в России](http://geektimes.ru/company/vcstart/blog/242851/)

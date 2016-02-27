@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 424"
-date: 2014-12-27T17:48:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt424.jpg
+comments: true
+date: 2014-12-27T17:48:00
 filename: rt_podcast424
+image: https://radio-t.com/images/radio-t/rt424.jpg
+layout: post
+title: Радио-Т 424
 ---
+
 ![](https://radio-t.com/images/radio-t/rt424.jpg)
 
 * [Десятка популярности языков за 2014](http://prsm.tc/9pkpRH)

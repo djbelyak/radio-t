@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-11-04T10:01:00
+filename: rt_podcast9
 layout: post
 title: Радио-T 9
-date: 2006-11-04T10:01:00
-comments: true
-categories: podcast
-filename: rt_podcast9
 ---
 
 - поговорим/поспорим о [гаджете](http://u10.iriver.com/html/en_us/itsu10.html)

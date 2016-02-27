@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-09-02T00:01:00
+filename: rt_podcast50
 layout: post
 title: Радио-T 50
-date: 2007-09-02T00:01:00
-comments: true
-categories: podcast
-filename: rt_podcast50
 ---
 
 - 802.11n наступает

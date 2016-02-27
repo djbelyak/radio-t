@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 395"
-date: 2014-06-07T21:57:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt395.jpg
+comments: true
+date: 2014-06-07T21:57:00
 filename: rt_podcast395
+image: https://radio-t.com/images/radio-t/rt395.jpg
+layout: post
+title: Радио-Т 395
 ---
+
 ![](https://radio-t.com/images/radio-t/rt395.jpg)
 
 - WWDC 2014

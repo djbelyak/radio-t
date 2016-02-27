@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-10-01T11:28:00
+filename: rt_podcast4
 layout: post
 title: Радио-T 4
-date: 2006-10-01T11:28:00
-comments: true
-categories: podcast
-filename: rt_podcast4
 ---
 
 - Jabber и GTalk для всех и каждого

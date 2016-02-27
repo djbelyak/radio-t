@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Призы от Parallels"
-date: 2013-10-07T12:51:00
-comments: true
 categories: news
+comments: true
+date: 2013-10-07T12:51:00
+layout: post
+title: Призы от Parallels
 ---
+
 ![](https://radio-t.com/images/radio-t/rt298.jpg)
 
 Результаты розыгрыша Parallels Desktop и Parallles Access:

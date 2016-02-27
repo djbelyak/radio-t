@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-11-04T07:08:00
+filename: rt_podcast59
 layout: post
 title: Радио–Т 59
-date: 2007-11-04T07:08:00
-comments: true
-categories: podcast
-filename: rt_podcast59
 ---
 
 – Конец легенде о защищенности OSX

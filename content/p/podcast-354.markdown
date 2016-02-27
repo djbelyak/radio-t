@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 354"
-date: 2013-08-24T19:21:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt354.jpg
+comments: true
+date: 2013-08-24T19:21:00
 filename: rt_podcast354
+image: https://radio-t.com/images/radio-t/rt354.jpg
+layout: post
+title: Радио-Т 354
 ---
+
 ![](https://radio-t.com/images/radio-t/rt354.jpg)
 
 * [Ballmer уходит](http://www.nytimes.com/2013/08/24/technology/ballmer-announces-retirement-from-microsoft.html)

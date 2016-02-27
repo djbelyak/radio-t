@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 464"
-date: 2015-10-03T18:54:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt464.jpg
+comments: true
+date: 2015-10-03T18:54:00
 filename: rt_podcast464
+image: https://radio-t.com/images/radio-t/rt464.jpg
+layout: post
+title: Радио-Т 464
 ---
+
 ![](https://radio-t.com/images/radio-t/rt464.jpg)
 
 * [Otto заменяет Vagrant](https://www.ottoproject.io/intro/index.html).

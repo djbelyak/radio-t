@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 362"
-date: 2013-10-19T17:38:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt362.jpg
+comments: true
+date: 2013-10-19T17:38:00
 filename: rt_podcast362
+image: https://radio-t.com/images/radio-t/rt362.jpg
+layout: post
+title: Радио-Т 362
 ---
+
 ![](https://radio-t.com/images/radio-t/rt362.jpg)
 
 * [Oracle поспорил с военными](http://readwrite.com/2013/10/15/oracle-opens-both-barrels-on-open-source-software-in-military-whitepaper)

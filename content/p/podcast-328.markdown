@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 328"
-date: 2013-02-16T16:19:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt328.jpg
+comments: true
+date: 2013-02-16T16:19:00
 filename: rt_podcast328
+image: https://radio-t.com/images/radio-t/rt328.jpg
+layout: post
+title: Радио-Т 328
 ---
+
 ![](https://radio-t.com/images/radio-t/rt328.jpg)
 
 * [BitTorrent запустил SoShare](http://techcrunch.com/2013/02/15/bittorrent-sharpens-enterprise-focus-launches-soshare-to-send-large-files-offering-first-teraby)

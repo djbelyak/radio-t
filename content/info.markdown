@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "Что, где, когда и кто"
-date: 2012-06-13T22:48:00
 comments: false
-sharing: true
+date: 2012-06-13T22:48:00
 footer: false
+layout: page
+sharing: true
+title: Что, где, когда и кто
 ---
 
 #### Что это ?

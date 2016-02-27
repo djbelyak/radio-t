@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 309"
-date: 2012-10-06T19:47:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-10-06T19:47:00
 filename: rt_podcast309
+layout: post
+title: Радио-Т 309
 ---
+
 ![](https://radio-t.com/images/radio-t/rt309.jpg)
 
 * А мы так хотели поговорить о [Phantom Operating System](http://dz.ru/en/solutions/phantom/)

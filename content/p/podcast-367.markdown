@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 367"
-date: 2013-11-23T16:00:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt367.jpg
+comments: true
+date: 2013-11-23T16:00:00
 filename: rt_podcast367
+image: https://radio-t.com/images/radio-t/rt367.jpg
+layout: post
+title: Радио-Т 367
 ---
+
 ![](https://radio-t.com/images/radio-t/rt367.jpg)
 
 * [Microsoft кружки  против Google](http://www.theverge.com/2013/11/20/5127052/microsoft-scroogled-mugs-t-shirts-store)

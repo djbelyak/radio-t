@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 308"
-date: 2012-09-29T16:57:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-09-29T16:57:00
 filename: rt_podcast308
+layout: post
+title: Радио-Т 308
 ---
+
 ![](https://radio-t.com/images/radio-t/rt308.jpg)
 
 * [14 лет Google](http://habrahabr.ru/post/152441/)

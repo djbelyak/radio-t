@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-06-29T08:43:00
+filename: rt_podcast92
 layout: post
 title: Радио-Т 92
-date: 2008-06-29T08:43:00
-comments: true
-categories: podcast
-filename: rt_podcast92
 ---
 
 - Твитер выживает сомнительными методами

@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-06-27T05:37:00
+filename: rt_podcast193
 layout: post
 title: Радио-Т 193
-date: 2010-06-27T05:37:00
-comments: true
-categories: podcast
-filename: rt_podcast193
 ---
+
 ![](https://radio-t.com/images/radio-t/rt193.jpg)
 
 - iPhone 4 совсем [не торт](http://www.engadget.com/2010/06/25/hey-apple-youre-holding-it-wrong/)?

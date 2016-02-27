@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 417"
-date: 2014-11-08T18:15:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt417.jpg
+comments: true
+date: 2014-11-08T18:15:00
 filename: rt_podcast417
+image: https://radio-t.com/images/radio-t/rt417.jpg
+layout: post
+title: Радио-Т 417
 ---
+
 ![](https://radio-t.com/images/radio-t/rt417.jpg)
 
 * [Amazon Echo](http://www.cnet.com/news/amazon-echo-is-a-star-trek-computer-for-your-home/)

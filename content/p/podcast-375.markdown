@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 375"
-date: 2014-01-18T16:03:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt375.jpg
+comments: true
+date: 2014-01-18T16:03:00
 filename: rt_podcast375
+image: https://radio-t.com/images/radio-t/rt375.jpg
+layout: post
+title: Радио-Т 375
 ---
+
 ![](https://radio-t.com/images/radio-t/rt375.jpg)
 
 * [25 лет Tcl](http://blog.tkdocs.com/2014/01/happy-25th-tcl.html)

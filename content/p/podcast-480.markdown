@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 480"
-date: 2016-01-23T22:46:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt480.jpg
+comments: true
+date: 2016-01-23T22:46:00
 filename: rt_podcast480
+image: https://radio-t.com/images/radio-t/rt480.jpg
+layout: post
+title: Радио-Т 480
 ---
+
 ![](https://radio-t.com/images/radio-t/rt480.jpg)
 
 

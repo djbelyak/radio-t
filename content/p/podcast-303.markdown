@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 303"
-date: 2012-08-25T18:06:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-08-25T18:06:00
 filename: rt_podcast303
+layout: post
+title: Радио-Т 303
 ---
+
 ![](https://radio-t.com/images/radio-t/rt303.jpg)
 
 * [Apple против Samsung](http://www.engadget.com/2012/08/24/apple-v-samsung-decision/) - есть решение

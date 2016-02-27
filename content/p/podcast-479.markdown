@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 479"
-date: 2016-01-16T17:00:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt479.jpg
+comments: true
+date: 2016-01-16T17:00:00
 filename: rt_podcast479
+image: https://radio-t.com/images/radio-t/rt479.jpg
+layout: post
+title: Радио-Т 479
 ---
+
 ![](https://radio-t.com/images/radio-t/rt479.jpg)
 
 - [Перевод для всех пользователей Windows](http://time.com/4180457/skype-real-time-translator-windows/).

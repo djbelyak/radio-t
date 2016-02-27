@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-01-23T05:52:00
+filename: rt_podcast223
 layout: post
 title: Радио-Т 223
-date: 2011-01-23T05:52:00
-comments: true
-categories: podcast
-filename: rt_podcast223
 ---
+
 ![](https://radio-t.com/images/radio-t/rt223.jpg)
 
 - Немного утекшего HP/Palm’s webOS [устройства](http://www.engadget.com/2011/01/18/exclusive-hp-palms-webos-tablets-pictures-plans-and-mor/)

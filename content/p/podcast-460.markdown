@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 460"
-date: 2015-09-05T17:36:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt460.jpg
+comments: true
+date: 2015-09-05T17:36:00
 filename: rt_podcast460
+image: https://radio-t.com/images/radio-t/rt460.jpg
+layout: post
+title: Радио-Т 460
 ---
+
 ![](https://radio-t.com/images/radio-t/rt460.jpg)
 
 * [JetBrains Toolbox – мнения разделились](http://blog.jetbrains.com/blog/2015/09/03/introducing-jetbrains-toolbox/).

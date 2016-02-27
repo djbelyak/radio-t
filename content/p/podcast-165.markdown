@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-12-13T07:42:00
+filename: rt_podcast165
 layout: post
 title: Радио-Т 165
-date: 2009-12-13T07:42:00
-comments: true
-categories: podcast
-filename: rt_podcast165
 ---
+
 ![](https://radio-t.com/images/radio-t/rt165.jpg)
 
 - Гугловые [подарки ](http://habrahabr.ru/company/google/blog/77766/)прибыли

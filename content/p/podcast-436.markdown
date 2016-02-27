@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 436"
-date: 2015-03-21T18:00:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt436.jpg
+comments: true
+date: 2015-03-21T18:00:00
 filename: rt_podcast436
+image: https://radio-t.com/images/radio-t/rt436.jpg
+layout: post
+title: Радио-Т 436
 ---
+
 ![](https://radio-t.com/images/radio-t/rt436.jpg)
 
 * [Опять новый Apple TV](http://prsm.tc/wVTUTB).

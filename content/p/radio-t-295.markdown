@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 295"
-date: 2012-07-01T00:49:00
-comments: true
 categories: podcast
+comments: true
+date: 2012-07-01T00:49:00
 filename: rt_podcast295
+layout: post
+title: Радио-Т 295
 ---
+
 ![](https://radio-t.com/images/radio-t/rt295.jpeg)
 
 * 5-летие [iPhone'а](http://www.businessinsider.com/heres-what-steve-ballmer-thought-about-the-iphone-five-years-ago-2012-6)

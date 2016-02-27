@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-07-12T08:19:00
+filename: rt_podcast144
 layout: post
 title: Радио-Т 144
-date: 2009-07-12T08:19:00
-comments: true
-categories: podcast
-filename: rt_podcast144
 ---
+
 ![](https://radio-t.com/images/radio-t/rt144.jpg)
 
 

@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-10-07T05:56:00
+filename: rt_podcast55
 layout: post
 title: Радио-T 55
-date: 2007-10-07T05:56:00
-comments: true
-categories: podcast
-filename: rt_podcast55
 ---
 
 - Странный рейтинг Гугла

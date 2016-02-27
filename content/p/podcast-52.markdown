@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-09-17T06:48:00
+filename: rt_podcast52
 layout: post
 title: Радио-T 52
-date: 2007-09-17T06:48:00
-comments: true
-categories: podcast
-filename: rt_podcast52
 ---
 
 - Праздничное выступление

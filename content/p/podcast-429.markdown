@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 429"
-date: 2015-01-31T17:18:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt429.jpg
+comments: true
+date: 2015-01-31T17:18:00
 filename: rt_podcast429
+image: https://radio-t.com/images/radio-t/rt429.jpg
+layout: post
+title: Радио-Т 429
 ---
+
 ![](https://radio-t.com/images/radio-t/rt429.jpg)
 
 * [Amazon похвастался 1M активных пользователей](http://www.wired.com/2015/01/amazon-says-one-million-customers-actively-use-cloud-services/)

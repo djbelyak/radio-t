@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 438"
-date: 2015-04-04T18:05:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt438.jpg
+comments: true
+date: 2015-04-04T18:05:00
 filename: rt_podcast438
+image: https://radio-t.com/images/radio-t/rt438.jpg
+layout: post
+title: Радио-Т 438
 ---
+
 ![](https://radio-t.com/images/radio-t/rt438.jpg)
 
 * [Гиковские шутки на первое апреля](http://prsm.tc/CpnYxV).

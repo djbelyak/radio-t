@@ -1,10 +1,11 @@
 ---
+categories: podcast
+comments: true
+date: 2008-12-14T13:19:00
 layout: post
 title: Радио–Т 116
-date: 2008-12-14T13:19:00
-comments: true
-categories: podcast
 ---
+
 ![](https://radio-t.com/images/radio-t/rt116.png)
 
 

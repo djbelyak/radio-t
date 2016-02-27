@@ -1,13 +1,12 @@
 ---
-layout: post
-title: "Радио-Т 453"
-date: 2015-07-18T21:32:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt453.jpg
+comments: true
+date: 2015-07-18T21:32:00
 filename: rt_podcast453
+image: https://radio-t.com/images/radio-t/rt453.jpg
+layout: post
+title: Радио-Т 453
 ---
-
 
 _Спонсор этого выпуска [DigitalOcean](https://www.digitalocean.com)_
 

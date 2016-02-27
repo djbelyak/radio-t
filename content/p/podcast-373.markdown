@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 373"
-date: 2014-01-04T17:08:00
-comments: true
 categories: podcast special
-image: https://radio-t.com/images/radio-t/rt373.jpg
+comments: true
+date: 2014-01-04T17:08:00
 filename: rt_podcast373
+image: https://radio-t.com/images/radio-t/rt373.jpg
+layout: post
+title: Радио-Т 373
 ---
+
 ![](https://radio-t.com/images/radio-t/rt373.jpg)
 
 * Много новогодне-гиковских разговоров на разные темы.

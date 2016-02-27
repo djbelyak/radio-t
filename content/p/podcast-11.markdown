@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2006-11-20T09:53:00
+filename: rt_podcast11
 layout: post
 title: Радио-T 11
-date: 2006-11-20T09:53:00
-comments: true
-categories: podcast
-filename: rt_podcast11
 ---
 
 - Портативный DVD [плеер](http://mobbit.info/item/2025) c разъёмом для iPod

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 458"
-date: 2015-08-22T17:41:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt458.jpg
+comments: true
+date: 2015-08-22T17:41:00
 filename: rt_podcast458
+image: https://radio-t.com/images/radio-t/rt458.jpg
+layout: post
+title: Радио-Т 458
 ---
+
 ![](https://radio-t.com/images/radio-t/rt458.jpg)
 
 * [Вышел Go 1.5](http://habrahabr.ru/post/265115/).

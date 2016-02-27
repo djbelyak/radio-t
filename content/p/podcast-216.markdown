@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-12-05T05:23:00
+filename: rt_podcast216
 layout: post
 title: Радио-Т 216
-date: 2010-12-05T05:23:00
-comments: true
-categories: podcast
-filename: rt_podcast216
 ---
+
 ![](https://radio-t.com/images/radio-t/rt216.jpg)
 
 - Три "R" дла чистоты вашего [кода](http://agile.dzone.com/news/three-rs-clean-code)

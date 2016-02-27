@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-08-30T05:37:00
+filename: rt_podcast151
 layout: post
 title: Радио-Т 151
-date: 2009-08-30T05:37:00
-comments: true
-categories: podcast
-filename: rt_podcast151
 ---
+
 ![](https://radio-t.com/images/radio-t/rt151.jpg)
 
 

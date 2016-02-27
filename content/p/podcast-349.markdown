@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 349"
-date: 2013-07-20T18:20:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt349.jpg
+comments: true
+date: 2013-07-20T18:20:00
 filename: rt_podcast349
+image: https://radio-t.com/images/radio-t/rt349.jpg
+layout: post
+title: Радио-Т 349
 ---
+
 ![](https://radio-t.com/images/radio-t/rt349.jpg)
 
 * [Surface RT](http://www.theverge.com/2013/7/19/4537944/surface-rt-mistakes-look-like-zune-2) как Zune 2.0?

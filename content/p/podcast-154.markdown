@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2009-09-20T06:59:00
+filename: rt_podcast154
 layout: post
 title: Радио-Т 154
-date: 2009-09-20T06:59:00
-comments: true
-categories: podcast
-filename: rt_podcast154
 ---
+
 ![](https://radio-t.com/images/radio-t/rt154.jpg)
 
 

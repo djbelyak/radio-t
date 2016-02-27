@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 450"
-date: 2015-06-27T18:04:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt450.jpg
+comments: true
+date: 2015-06-27T18:04:00
 filename: rt_podcast450
+image: https://radio-t.com/images/radio-t/rt450.jpg
+layout: post
+title: Радио-Т 450
 ---
+
 ![](https://radio-t.com/images/radio-t/rt450.jpg)
 
 * [Все о DockerCon 2015](http://prsm.tc/mpS5xj).

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 383"
-date: 2014-03-15T16:46:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt383.jpg
+comments: true
+date: 2014-03-15T16:46:00
 filename: rt_podcast383
+image: https://radio-t.com/images/radio-t/rt383.jpg
+layout: post
+title: Радио-Т 383
 ---
+
 ![](https://radio-t.com/images/radio-t/rt383.jpg)
 
 * День рожденья [World Wide Web!](http://www.w3.org/blog/news/archives/3715).

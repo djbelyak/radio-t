@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-06-22T07:42:00
+filename: rt_podcast91
 layout: post
 title: Радио-Т 91
-date: 2008-06-22T07:42:00
-comments: true
-categories: podcast
-filename: rt_podcast91
 ---
 
 - Удовольствия и разочарования FF3

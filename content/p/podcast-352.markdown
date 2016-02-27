@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 352"
-date: 2013-08-10T17:51:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt352.jpg
+comments: true
+date: 2013-08-10T17:51:00
 filename: rt_podcast352
+image: https://radio-t.com/images/radio-t/rt352.jpg
+layout: post
+title: Радио-Т 352
 ---
+
 ![](https://radio-t.com/images/radio-t/rt352.jpg)
 
 * Вредные [программы полезны для андроидов](http://www.telegraph.co.uk/technology/apple/10226145/The-apps-that-Apple-does-not-want-you-to-use.html)

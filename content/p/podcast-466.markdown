@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 466"
-date: 2015-10-17T18:08:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt466.jpg
+comments: true
+date: 2015-10-17T18:08:00
 filename: rt_podcast466
+image: https://radio-t.com/images/radio-t/rt466.jpg
+layout: post
+title: Радио-Т 466
 ---
+
 ![](https://radio-t.com/images/radio-t/rt466.jpg)
 
 * [Новые iMacs](http://wccftech.com/apple-launches-lineup-imacs-crucial-difference-details/).

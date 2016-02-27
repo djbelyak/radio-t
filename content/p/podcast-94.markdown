@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-07-13T08:53:00
+filename: rt_podcast94
 layout: post
 title: Радио-Т 94
-date: 2008-07-13T08:53:00
-comments: true
-categories: podcast
-filename: rt_podcast94
 ---
 
 - Разговор со специальным гостем о мобильных хай–теках

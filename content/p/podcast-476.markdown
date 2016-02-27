@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 476"
-date: 2015-12-26T16:31:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt476.jpg
+comments: true
+date: 2015-12-26T16:31:00
 filename: rt_podcast476
+image: https://radio-t.com/images/radio-t/rt476.jpg
+layout: post
+title: Радио-Т 476
 ---
+
 ![](https://radio-t.com/images/radio-t/rt476.jpg)
 
 - [Что случилось с google public dns?](http://habrahabr.ru/post/274095/)

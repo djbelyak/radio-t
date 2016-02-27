@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 451"
-date: 2015-07-04T18:15:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt451.jpg
+comments: true
+date: 2015-07-04T18:15:00
 filename: rt_podcast451
+image: https://radio-t.com/images/radio-t/rt451.jpg
+layout: post
+title: Радио-Т 451
 ---
+
 ![](https://radio-t.com/images/radio-t/rt451.jpg)
 
 * [Microsoft поломал Wi-Fi](http://prsm.tc/ECX8M6).

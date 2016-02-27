@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2007-09-23T05:51:00
+filename: rt_podcast53
 layout: post
 title: Радио-T 53
-date: 2007-09-23T05:51:00
-comments: true
-categories: podcast
-filename: rt_podcast53
 ---
 
 - Линус о C++ и о программистах на этом языке

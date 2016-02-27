@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-02-03T05:22:00
+filename: rt_podcast72
 layout: post
 title: Радио–Т 72
-date: 2008-02-03T05:22:00
-comments: true
-categories: podcast
-filename: rt_podcast72
 ---
 
 - [Yahoo](http://lenta.ru/news/2008/02/01/microsoft/) за недорого

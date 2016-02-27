@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 368"
-date: 2013-11-30T15:29:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt368.jpg
+comments: true
+date: 2013-11-30T15:29:00
 filename: rt_podcast368
+image: https://radio-t.com/images/radio-t/rt368.jpg
+layout: post
+title: Радио-Т 368
 ---
+
 ![](https://radio-t.com/images/radio-t/rt368.jpg)
 
 * С днем [рожденья DNS](http://www.circleid.com/posts/20131127_the_30th_birthday_of_dns/)

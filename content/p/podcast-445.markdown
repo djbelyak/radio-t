@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 445"
-date: 2015-05-23T17:40:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt445.jpg
+comments: true
+date: 2015-05-23T17:40:00
 filename: rt_podcast445
+image: https://radio-t.com/images/radio-t/rt445.jpg
+layout: post
+title: Радио-Т 445
 ---
+
 ![](https://radio-t.com/images/radio-t/rt445.jpg)
 
 * [Java через 20 лет](http://www.javaworld.com/article/2924046/scripting-jvm-languages/java-at-20-jvm-javas-other-big-legacy.html).

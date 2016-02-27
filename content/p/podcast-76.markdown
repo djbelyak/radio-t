@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-03-09T12:33:00
+filename: rt_podcast76
 layout: post
 title: Радио–Т 76
-date: 2008-03-09T12:33:00
-comments: true
-categories: podcast
-filename: rt_podcast76
 ---
 
 - SCO [встает](http://www.linux.org.ru/view-message.jsp?msgid=2584658) из небытия

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 414"
-date: 2014-10-18T17:17:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt414.jpg
+comments: true
+date: 2014-10-18T17:17:00
 filename: rt_podcast414
+image: https://radio-t.com/images/radio-t/rt414.jpg
+layout: post
+title: Радио-Т 414
 ---
+
 ![](https://radio-t.com/images/radio-t/rt414.jpg)
 
 * [Октябрьские премьеры Apple](http://geektimes.ru/post/240358/)

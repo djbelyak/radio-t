@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 412"
-date: 2014-10-04T17:50:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt412.jpg
+comments: true
+date: 2014-10-04T17:50:00
 filename: rt_podcast412
+image: https://radio-t.com/images/radio-t/rt412.jpg
+layout: post
+title: Радио-Т 412
 ---
+
 ![](https://radio-t.com/images/radio-t/rt412.jpg)
 
 * [Что не так с номерами версий](http://developer.telerik.com/featured/lies-damn-lies-version-numbers/)

@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-01-20T07:12:00
+filename: rt_podcast70
 layout: post
 title: Радио–Т 70
-date: 2008-01-20T07:12:00
-comments: true
-categories: podcast
-filename: rt_podcast70
 ---
 
 - Пара слов о [5-ти пунктах Джобса

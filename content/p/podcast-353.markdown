@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 353"
-date: 2013-08-17T18:08:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt353.jpg
+comments: true
+date: 2013-08-17T18:08:00
 filename: rt_podcast353
+image: https://radio-t.com/images/radio-t/rt353.jpg
+layout: post
+title: Радио-Т 353
 ---
+
 ![](https://radio-t.com/images/radio-t/rt353.jpg)
 
 * [Проекту Debian 20 лет!](http://habrahabr.ru/post/190318/)

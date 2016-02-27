@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2010-10-10T07:49:00
+filename: rt_podcast208
 layout: post
 title: Радио-Т 208
-date: 2010-10-10T07:49:00
-comments: true
-categories: podcast
-filename: rt_podcast208
 ---
+
 ![](https://radio-t.com/images/radio-t/rt208.jpg)
 
 - Новый релиз старой [ОС](http://www.opennet.ru/opennews/art.shtml?num=28170)

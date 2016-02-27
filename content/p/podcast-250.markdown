@@ -1,11 +1,10 @@
 ---
+categories: podcast special
+comments: true
+date: 2011-08-07T23:45:00
+filename: rt_podcast250
 layout: post
 title: Радио-Т 250
-date: 2011-08-07T23:45:00
-comments: true
-categories: podcast special
-
-filename: rt_podcast250
 ---
 
 - Гиковский, экстремальный выпуск

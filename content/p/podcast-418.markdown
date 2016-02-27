@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 418"
-date: 2014-11-15T17:23:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt418.jpg
+comments: true
+date: 2014-11-15T17:23:00
 filename: rt_podcast418
+image: https://radio-t.com/images/radio-t/rt418.jpg
+layout: post
+title: Радио-Т 418
 ---
+
 ![](https://radio-t.com/images/radio-t/rt418.jpg)
 
 * [DigitalOcean теперь #3](http://prsm.tc/5TH0px)

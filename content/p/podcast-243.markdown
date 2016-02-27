@@ -1,11 +1,12 @@
 ---
+categories: podcast
+comments: true
+date: 2011-06-19T01:53:00
+filename: rt_podcast243
 layout: post
 title: Радио-Т 243
-date: 2011-06-19T01:53:00
-comments: true
-categories: podcast
-filename: rt_podcast243
 ---
+
 ![](https://radio-t.com/images/radio-t/rt243.jpg)
 
 - [IBM ](http://blogs.wsj.com/digits/2011/06/16/happy-100th-birthday-ibm/?mod=e2tw)разменял 2ю сотню

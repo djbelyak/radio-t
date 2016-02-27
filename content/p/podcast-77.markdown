@@ -1,10 +1,10 @@
 ---
+categories: podcast
+comments: true
+date: 2008-03-16T10:37:00
+filename: rt_podcast77
 layout: post
 title: Радио–Т 77
-date: 2008-03-16T10:37:00
-comments: true
-categories: podcast
-filename: rt_podcast77
 ---
 
 - [ДР mp3-проигрывателя](http://www.cyberstyle.ru/newsline/view/2799/MP3-MP3_player-MPMan_F10-MP3-.html)!

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 398"
-date: 2014-06-28T18:07:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt398.jpg
+comments: true
+date: 2014-06-28T18:07:00
 filename: rt_podcast398
+image: https://radio-t.com/images/radio-t/rt398.jpg
+layout: post
+title: Радио-Т 398
 ---
+
 ![](https://radio-t.com/images/radio-t/rt398.jpg)
 
 * [X Window стукнуло 30](http://prsm.tc/xyFlph)

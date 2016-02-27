@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 440"
-date: 2015-04-18T19:06:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt440.jpg
+comments: true
+date: 2015-04-18T19:06:00
 filename: rt_podcast440
+image: https://radio-t.com/images/radio-t/rt440.jpg
+layout: post
+title: Радио-Т 440
 ---
+
 ![](https://radio-t.com/images/radio-t/rt440.jpg)
 
 * [Memex на смену Google-killer?](http://prsm.tc/6OJDts)

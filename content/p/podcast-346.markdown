@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 346"
-date: 2013-06-29T18:10:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt346.jpg
+comments: true
+date: 2013-06-29T18:10:00
 filename: rt_podcast346
+image: https://radio-t.com/images/radio-t/rt346.jpg
+layout: post
+title: Радио-Т 346
 ---
+
 ![](https://radio-t.com/images/radio-t/rt346.jpg)
 
 * [5 лет Evernote](http://evernote.com/5year/).

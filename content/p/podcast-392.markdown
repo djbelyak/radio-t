@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Радио-Т 392"
-date: 2014-05-17T16:48:00
-comments: true
 categories: podcast
-image: https://radio-t.com/images/radio-t/rt392.jpg
+comments: true
+date: 2014-05-17T16:48:00
 filename: rt_podcast392
+image: https://radio-t.com/images/radio-t/rt392.jpg
+layout: post
+title: Радио-Т 392
 ---
+
 ![](https://radio-t.com/images/radio-t/rt392.jpg)
 
 * [Yahoo покупает Blink](http://techcrunch.com/2014/05/13/yahoo-acquires-self-destructing-messaging-app-blink-which-will-soon-disappear/).
