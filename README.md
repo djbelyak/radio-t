@@ -7,6 +7,9 @@ Hugo version of radio-t
 
 ### Requirements
 
+- _Git_ [(link)](https://git-scm.com/downloads)
+- _Hugo_ [(link)](https://github.com/spf13/hugo/releases) or [(link)](http://gohugo.io/#action)
+
 ### Build the static site
 
 ### Add new content
