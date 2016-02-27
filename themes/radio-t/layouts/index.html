@@ -1,0 +1,35 @@
+{{ partial "head.html" . }}
+  <body>
+    <header role="banner">{{ partial "header.html" . }}</header>
+    <nav role="navigation">{{ partial "navigation.html" . }}</nav>
+
+    <div id="main">
+      <div id="content">
+        <div class="blog-index">
+          {{ range .Paginator.Pages }}
+            {{ if isset .Params "categories" }}
+            {{ .Render "li"}}
+            {{end}}
+          {{ end }}
+
+          <div class="pagination">
+            {{ if .Paginator.HasNext }}
+            <a class="prev" href="/p{{ .Paginator.Next.URL }}">&larr; Раньше</a>
+            {{ end}}
+            <a href="/archives">Архивы подкаста</a>
+            {{ if .Paginator.HasPrev }}
+            <a class="next" href="/p{{ .Paginator.Prev.URL }}">Позже &rarr;</a>
+            {{ end}}
+          </div>
+
+        </div>
+        {{ partial "aside.html" . }}
+      </div>
+    </div>
+
+    <footer role="contentinfo">{{ partial "footer.html" . }}</footer>
+  
+    {{ partial "after_footer.html" . }}
+
+  </body>
+</html>

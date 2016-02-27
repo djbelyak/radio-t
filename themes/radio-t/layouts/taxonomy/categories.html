@@ -1,0 +1,38 @@
+{{ partial "head.html" . }}
+  <body>
+    <header role="banner">{{ partial "header.html" . }}</header>
+    <nav role="navigation">{{ partial "navigation.html" . }}</nav>
+    <div id="main">
+      <div id="content">
+        <div>
+          <article role="article">
+            <header>
+              <h1>Category: {{.Title }}</h1>
+            </header>
+        
+        {{$.Scratch.Set "year" 0}}
+        <div id="blog-archives" class="category">
+          
+          {{ range .Data.Pages }}
+          {{if ne (dateFormat "2006"  .Date) ($.Scratch.Get "year")}}
+            {{$.Scratch.Set "year" (dateFormat "2006"  .Date)}}
+            <h2> {{$.Scratch.Get "year"}} </h2>
+          {{end}}
+
+                {{.Render "archive_post"}}
+
+            {{ end }}
+        </div>
+      </article>
+      </div>
+        {{ partial "aside.html" . }}
+      </div>
+
+    </div>
+
+    <footer role="contentinfo">{{ partial "footer.html" . }}</footer>
+  
+    {{ partial "after_footer.html" . }}
+
+  </body>
+</html>

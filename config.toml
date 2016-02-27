@@ -1,0 +1,54 @@
+baseurl = "https://djbelyak.github.io/"
+languageCode = "ru-ru"
+title = "Радио-Т Подкаст"
+DisqusShortname = "radiot"
+
+paginate = 15
+paginatePath  ="page"
+
+[permalinks]
+  p = "/p/:year/:month/:day/:filename/"
+
+
+
+[params]
+	simple_search = true
+	facebook_like = false
+	twitter_follow_button = true
+	twitter_tweet_button = true
+	twitter_user = "radio-t"
+	google_plus_one = true
+	subtitle = "Подкаст выходного дня - импровизации на темы высоких технологий"
+	author = "podcast@radio-t.com"
+	subscribe_rss = "http://feeds.rucast.net/radio-t"
+	description = """
+Еженедельные разговоры на темы хайтек, высоких компьютерных технологий, гаджетов, облаков, программирования и прочего интересного из мира ИТ.
+"""
+
+[[menu.main]]
+	name = "Подкасты"
+    url = "/"
+    weight = -110
+[[menu.main]]
+	name = "Архивы"
+	url = "/archives"
+	weight = -100
+[[menu.main]]
+	name = "Вещание"
+	url = "/online"
+	weight = -90
+[[menu.main]]
+	name = "Подписка"
+	url = "/feeds"
+	weight = -80
+[[menu.main]]
+	name = "FAQ"
+	url = "/faq"
+	weight = -70
+[[menu.main]]
+	name = "Реклама"
+	url = "/advertising"
+	weight = -60
+
+[taxonomies]
+  categories = "categories"

@@ -1,0 +1,26 @@
+
+<article role="article">
+  {{ if .Title }}
+  <header>
+    <h1 class="entry-title">
+      <a href ="{{.RelPermalink}}">{{ .Title }}</a>
+    </h1>
+    <p class="meta">
+    <time datetime="{{dateFormat "2006-01-02T15:04:05Z07:00"  .Date }}" pubdate data-updated="true">{{ dateFormat "Jan 2, 2006"  .Date }} </time>
+        
+         | <a href="https://radio-t.com{{.RelPermalink}}#disqus_thread">Comments</a>
+        </p>
+  </header>
+  {{ end }}
+  <div class="entry-content">
+    {{ .Content  }}
+  </div>
+</article>
+
+{{ if .Params.comments }}
+<!--
+  <section>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></div>
+  </section>
+-->
+{{ end }}
