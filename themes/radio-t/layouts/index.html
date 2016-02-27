@@ -1,32 +1,35 @@
-{{ partial "header.html" . }}
+{{ partial "head.html" . }}
+  <body>
+    <header role="banner">{{ partial "header.html" . }}</header>
+    <nav role="navigation">{{ partial "navigation.html" . }}</nav>
 
-<!--
-	main
--->
+    <div id="main">
+      <div id="content">
+        <div class="blog-index">
+          {{ range .Paginator.Pages }}
+            {{ if isset .Params "categories" }}
+            {{ .Render "li"}}
+            {{end}}
+          {{ end }}
 
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
+          <div class="pagination">
+            {{ if .Paginator.HasNext }}
+            <a class="prev" href="/p{{ .Paginator.Next.URL }}">&larr; Раньше</a>
+            {{ end}}
+            <a href="/archives">Архивы подкаста</a>
+            {{ if .Paginator.HasPrev }}
+            <a class="next" href="/p{{ .Paginator.Prev.URL }}">Позже &rarr;</a>
+            {{ end}}
+          </div>
 
-      	{{ range where .Data.Pages "Section" "p"}}
-      	{{ .Render "li" }}
-  		{{ end }}
-  
-  
-  
-  
-  <div class="pagination">
-    
-      <a class="prev" href="/p/page/2/">&larr; Раньше</a>
-    
-    <a href="/archives">Архивы подкаста</a>
-    
-  </div>
-
-{{ partial "sidebar.html" . }}
-
+        </div>
+        {{ partial "aside.html" . }}
+      </div>
     </div>
-  </div>
 
+    <footer role="contentinfo">{{ partial "footer.html" . }}</footer>
+  
+    {{ partial "after_footer.html" . }}
 
-{{ partial "footer.html" . }}
+  </body>
+</html>

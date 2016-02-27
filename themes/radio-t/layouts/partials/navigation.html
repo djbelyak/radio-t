@@ -1,0 +1,28 @@
+
+{{ $subscr:= "rss"}}
+{{ if .Site.Params.subscribe_email}}
+  {{$subscr:= "rss email"}}
+{{ end }}
+
+<ul class="subscription" data-subscription="{{$subscr}}">
+  <li><a href="{{ .Site.Params.subscribe_rss }}" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  {{ if .Site.Params.subscribe_email }}
+    <li><a href="{{ .Site.Params.subscribe_email }}" rel="subscribe-email" title="subscribe via email">Email</a></li>
+  {{end }}
+</ul>
+  {{if .Site.Params.simple_search }}
+<form action="//google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL  }}" />
+    <input class="search" type="text" name="q" results="0" placeholder="Поиск"/>
+  </fieldset>
+</form>
+  {{ end }}
+  
+<ul class="main-navigation">
+  {{ $currentNode := . }}
+  {{ range .Site.Menus.main }}
+  <li><a href="{{.URL}}">{{ .Name }}</a></li>
+  {{ end }}
+</ul>
+</nav>
