@@ -3,7 +3,7 @@ languageCode = "ru-ru"
 title = "Радио-Т Подкаст"
 DisqusShortname = "radiot"
 
-paginate = 10
+paginate = 15
 paginatePath  ="page"
 
 [permalinks]

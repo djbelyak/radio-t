@@ -1,0 +1,21 @@
+---
+layout: post
+title: Радио-T 25
+date: 2007-03-06T04:30:00
+comments: true
+categories: podcast
+filename: rt_podcast25
+---
+
+- Fusion Beta 2 c 3D ускорителем
+- Sun даст денег FSF
+- Yahoo критикует Google
+- Открытое письмо Балмеру
+- iPod, доносящий на вора
+- Хакнуть Vista или продлить без активации
+- Чего ждать свитчеру на Mac
+- BitTorrent вышел из подполья
+
+[аудио](http://cdn.radio-t.com/rt_podcast25.mp3)
+<audio src="http://cdn.radio-t.com/rt_podcast25.mp3" preload="none"></audio>
+

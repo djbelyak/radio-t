@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Радио-Т 483"
-date: 2016-02-13T16:37:00-06:00
+date: 2016-02-13T16:37:00
 comments: true
 categories: podcast
 image: https://radio-t.com/images/radio-t/rt483.jpg
