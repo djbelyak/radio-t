@@ -5,6 +5,15 @@
 <time datetime="{{dateFormat "2006-01-02T15:04:05Z07:00"  .Date }}" pubdate data-updated="true">{{ dateFormat "Jan 2"  .Date }} </time>
 
 <footer>
-  <span class="categories">метки: <a class="category" href="/categories/{{.Params.categories }}/">{{.Params.categories }}</a></span>
+	<span class="categories">метки: 
+	{{if delimit .Params.categories ", " "!=" nil}}
+	{{$last := last 1 .Params.categories}}
+	  {{ range .Params.categories}}
+	   <a class="category" href="/categories/{{ . }}/">{{ . }}</a>{{ if not (in $last . )}},{{end}}
+	  {{end }}
+	{{ else }}
+  	<a class="category" href="/categories/{{.Params.categories }}/">{{.Params.categories }}</a>
+  	{{ end}}
+  </span>
 </footer>
 </article>
