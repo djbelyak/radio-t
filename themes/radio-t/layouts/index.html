@@ -7,7 +7,9 @@
       <div id="content">
         <div class="blog-index">
           {{ range .Paginator.Pages }}
+            {{ if isset .Params "categories" }}
             {{ .Render "li"}}
+            {{end}}
           {{ end }}
 
           <div class="pagination">
